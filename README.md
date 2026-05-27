@@ -186,7 +186,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 # 🏛️ Party-Wise Seat Distribution Analysis
 
-![Party Seat Distribution](assets/party-seat-distribution.png)
+![Party Seat Distribution](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/seat.png)
 
 ### Key Focus Areas
 
