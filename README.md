@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2800&pause=1200&color=FF6B00&center=true&vCenter=true&repeat=true&width=1400&height=130&lines=%F0%9F%87%AE%F0%9F%87%B3+LOK+SABHA+ELECTION+RESULT+2024;%F0%9F%93%8A+543+CONSTITUENCIES+COMPREHENSIVE+ANALYSIS;%F0%9F%97%B3%EF%B8%8F+PARTY+WISE+PERFORMANCE+AND+VOTE+SHARE;%F0%9F%93%88+MARGINS+TRENDS+AND+ELECTORAL+INSIGHTS;%F0%9F%9A%80+POWERED+BY+PANDAS+NUMPY+MATPLOTLIB+SEABORN" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=1200&height=130&lines=LOK+SABHA+ELECTION+2024+ANALYTICS;543+CONSTITUENCIES+DATA+EXPLORATION;PARTY+PERFORMANCE+AND+ELECTORAL+TRENDS;PANDAS+%7C+NUMPY+%7C+MATPLOTLIB+%7C+SEABORN" alt="Typing SVG"/>
 </p>
 
 <br>
