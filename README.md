@@ -217,7 +217,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 # 🏛️ Political Party Performance
 
-![Party Performance](assets/party-performance.png)
+![Party Performance](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/votes.png)
 
 ### Analysis Includes
 
