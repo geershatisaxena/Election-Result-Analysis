@@ -304,7 +304,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 ---
 # 📉 Top Trailing Parties Analysis by Votes
 
-![Top Trailing Parties](assets/top-trailing-parties.png)
+![Top Trailing Parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/tv.png)
 
 ### Key Focus Areas
 
