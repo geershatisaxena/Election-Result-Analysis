@@ -302,18 +302,34 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 - Exceptional electoral mandates
 
 ---
+# 📉 Top Trailing Parties Analysis
 
-# ⚡ Closest Electoral Contests
+![Top Trailing Parties](assets/top-trailing-parties.png)
 
-![Closest Contests](assets/closest-contests.png)
+### Key Focus Areas
 
-### Findings
+- Parties with the highest number of runner-up finishes
+- Constituencies lost by narrow margins
+- Vote-gap comparison between winners and runners-up
+- State-wise distribution of trailing candidates
+- Near-win constituencies and missed opportunities
+- Competitive performance across regions
+- Runner-up seat concentration analysis
+- Electoral strength despite defeat
 
-📌 Narrow victories highlight highly competitive constituencies
+### Key Findings
 
-📌 Small vote differences significantly impacted final outcomes
+📊 Several parties secured a large number of second-place finishes, demonstrating substantial voter support despite not winning seats.
 
-📌 Electoral competitiveness remains a defining feature of democracy
+⚡ Narrow defeat margins indicate highly competitive electoral battles across multiple constituencies.
+
+🗳️ Many trailing candidates remained strong challengers, often losing by only a small percentage of votes.
+
+📈 High runner-up counts suggest potential opportunities for future electoral gains and strategic expansion.
+
+🌍 Regional voting patterns played a major role in determining whether parties converted votes into victories.
+
+🏛️ The distribution of trailing positions highlights emerging political contenders and closely contested regions.
 
 ---
 
