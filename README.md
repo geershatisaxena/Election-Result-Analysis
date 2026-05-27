@@ -302,7 +302,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 - Exceptional electoral mandates
 
 ---
-# 📉 Top Trailing Parties Analysis
+# 📉 Top Trailing Parties Analysis by Votes
 
 ![Top Trailing Parties](assets/top-trailing-parties.png)
 
