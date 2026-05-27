@@ -184,25 +184,34 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🗺️ Constituency Analysis
+# 🏛️ Party-Wise Seat Distribution Analysis
 
-![Constituency Analysis](assets/constituency-analysis.png)
+![Party Seat Distribution](assets/party-seat-distribution.png)
 
 ### Key Focus Areas
 
-- Winning candidates
-- Runner-up candidates
-- Regional dominance
-- Electoral competitiveness
-- Constituency trends
+- Number of seats won by each political party
+- Top-performing national and regional parties
+- Percentage share of total Lok Sabha seats
+- Party dominance across different states
+- Comparative seat tally analysis
+- Majority and coalition formation trends
+- Regional strongholds and influence zones
+- Seat distribution patterns across India
 
 ### Insights
 
-📌 Constituencies display varying levels of political competition
+📊 A small group of major parties accounts for the majority of Lok Sabha seats.
 
-📌 Regional voting behavior strongly influences outcomes
+🏆 National parties maintain significant parliamentary presence, while regional parties continue to influence key states.
 
-📌 Electoral dynamics differ significantly across states
+🗳️ Seat distribution reveals clear political strongholds and competitive battleground regions.
+
+📈 Several parties demonstrated substantial gains through concentrated regional support.
+
+🌍 Regional political dynamics remain a critical factor in determining overall parliamentary representation.
+
+⭐ The final seat tally highlights the balance between national dominance and regional political influence.
 
 ---
 
