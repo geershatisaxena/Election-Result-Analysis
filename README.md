@@ -239,7 +239,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 # 🗳️ Vote Share Comparison: Narendra Modi vs Rahul Gandhi vs Amit Shah
 
-![Vote Comparison](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/votes.png)
+![Vote Comparison](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/compare.png)
 
 ### Key Focus Areas
 
