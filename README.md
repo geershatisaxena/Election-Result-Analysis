@@ -237,23 +237,34 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 📊 Seat Distribution Analysis
+# 🗳️ Vote Share Comparison: Narendra Modi vs Rahul Gandhi vs Amit Shah
 
-![Seat Distribution](assets/seat-distribution.png)
+![Vote Comparison](assets/vote-comparison.png)
 
-### Highlights
+### Key Focus Areas
 
-- Party-wise seats won
-- Coalition strength
-- Majority analysis
-- Parliamentary representation
+- Total votes secured by each candidate
+- Vote margin comparison
+- Constituency-wise electoral performance
+- Percentage vote share analysis
+- Winning dominance and voter support
+- Comparative ranking among leading candidates
+- Electoral strength across constituencies
+- Historical voting performance trends
 
-### Observations
+### Comparative Insights
 
-📈 Seat concentration varies across political parties
+🏆 All three leaders secured decisive victories with substantial voter mandates.
 
-🎯 Regional strongholds significantly influence final outcomes
+📊 Vote share analysis highlights varying levels of electoral dominance across constituencies.
 
+🚀 Large winning margins reflect strong grassroots support and effective campaign outreach.
+
+🗳️ Candidate popularity remains closely linked to regional political dynamics and party strength.
+
+📈 Vote-count comparison reveals significant differences in voter concentration and constituency size.
+
+⭐ The electoral performance of these leaders demonstrates their continued influence in shaping India's political landscape.
 ---
 
 # ⚔️ Margin of Victory Analysis
