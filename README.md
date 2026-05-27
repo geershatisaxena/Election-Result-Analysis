@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=24,12,20,17,30,6,2&text=🇮🇳%20LOK%20SABHA%20ELECTION%202024%20DATA%20ANALYSIS&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Comprehensive%20Analysis%20of%20India's%20Largest%20Democratic%20Election&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=24,12,20,17,30,6,2&text=%20LOK%20SABHA%20ELECTION%202024%20DATA%20ANALYSIS&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Comprehensive%20Analysis%20of%20India's%20Largest%20Democratic%20Election&descAlignY=62"/>
 
 <br>
 
