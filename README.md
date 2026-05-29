@@ -372,55 +372,8 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🎨 Visualization Gallery
 
-## Constituency Results
 
-![Constituency Results](assets/constituency-results.png)
-
----
-
-## Party Performance
-
-![Party Performance](assets/party-performance.png)
-
----
-
-## Margin Distribution
-
-![Margin Distribution](assets/margin-distribution.png)
-
----
-
-## Regional Analysis
-
-![Regional Analysis](assets/regional-analysis.png)
-
----
-
-## Seat Distribution
-
-![Seat Distribution](assets/seat-distribution.png)
-
----
-
-## Closest Contests
-
-![Closest Contests](assets/closest-contests.png)
-
----
-
-## Winning Margins
-
-![Winning Margins](assets/winning-margins.png)
-
----
-
-## Electoral Trends
-
-![Electoral Trends](assets/electoral-trends.png)
-
----
 
 # 📋 Key Findings
 
