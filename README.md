@@ -27,7 +27,7 @@
 
 ---
 
-# 🇮🇳 Lok Sabha Election 2024 Political Parties
+# Lok Sabha Election 2024 Political Parties
 
 <div align="center">
 
@@ -86,7 +86,94 @@
 
 <td align="center">
 <img src="assets/logos/cpim.png" width="110"><br>
-<b>CPI(M)</b>
+<b>Communist Party of India (Marxist)</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="assets/logos/shivsena.png" width="110"><br>
+<b>Shiv Sena</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/ncp.png" width="110"><br>
+<b>Nationalist Congress Party</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/rjd.png" width="110"><br>
+<b>Rashtriya Janata Dal</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/cpi.png" width="110"><br>
+<b>Communist Party of India</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/jmm.png" width="110"><br>
+<b>Jharkhand Mukti Morcha</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="assets/logos/aap.png" width="110"><br>
+<b>Aam Aadmi Party</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/ljp.png" width="110"><br>
+<b>Lok Janshakti Party (Ram Vilas)</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/ysrcp.png" width="110"><br>
+<b>YSR Congress Party</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/rld.png" width="110"><br>
+<b>Rashtriya Lok Dal</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/aimim.png" width="110"><br>
+<b>All India Majlis-e-Ittehadul Muslimeen</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="assets/logos/akali.png" width="110"><br>
+<b>Shiromani Akali Dal</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/vck.png" width="110"><br>
+<b>Viduthalai Chiruthaigal Katchi</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/apnadal.png" width="110"><br>
+<b>Apna Dal (Sonelal)</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/iuML.png" width="110"><br>
+<b>Indian Union Muslim League</b>
+</td>
+
+<td align="center">
+<img src="assets/logos/kc_m.png" width="110"><br>
+<b>Kerala Congress (M)</b>
 </td>
 
 </tr>
