@@ -506,7 +506,10 @@ The findings highlight the complexity of India's political landscape and demonst
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=gradient&customColorList=24,12,20,17,30,6,2"/>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=gradient&customColorList=24,12,20,17,30,6,2" 
+  width="100%" 
+/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1200&lines=🇮🇳+LOK+SABHA+ELECTION+2024+ANALYTICS;📊+POLITICAL+INTELLIGENCE+THROUGH+DATA;🚀+PANDAS+•+NUMPY+•+MATPLOTLIB+•+SEABORN;⭐+THANK+YOU+FOR+VISITING"/>
 
