@@ -105,9 +105,13 @@
 
 </div>
 
-The **Lok Sabha Election 2024 Data Analysis Project** provides an in-depth exploration of parliamentary election results across India. By analyzing constituency-level outcomes, party performance, victory margins, candidate competitiveness, and electoral trends, this project transforms raw election data into meaningful political intelligence.
+<p align="justify">
+The <b>Lok Sabha Election 2024 Data Analysis Project</b> provides an in-depth exploration of parliamentary election results across India. By analyzing constituency-level outcomes, party performance, victory margins, candidate competitiveness, and electoral trends, this project transforms raw election data into meaningful political intelligence.
+</p>
 
+<p align="justify">
 The analysis covers all parliamentary constituencies and highlights regional dynamics, alliance strength, winning patterns, and constituency-level competitiveness.
+</p>
 
 ---
 
