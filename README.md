@@ -512,7 +512,7 @@ The findings highlight the complexity of India's political landscape and demonst
 />
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=%F0%9F%87%AE%F0%9F%87%B3+LOK+SABHA+ELECTION+2024+ANALYTICS;%F0%9F%93%8A+POLITICAL+INTELLIGENCE+THROUGH+DATA;%F0%9F%9A%80+PANDAS+%E2%80%A2+NUMPY+%E2%80%A2+MATPLOTLIB+%E2%80%A2+SEABORN;%E2%AD%90+THANK+YOU+FOR+VISITING" 
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=%F0%9F%87%AE%F0%9F%87%B3+LOK+SABHA+ELECTION+2024+ANALYTICS;%F0%9F%93%8A+POLITICAL+INTELLIGENCE+THROUGH+DATA;%F0%9F%9A%80+PANDAS+%E2%80%A2+NUMPY+%E2%80%A2+MATPLOTLIB+%E2%80%A2+SEABORN;%E2%AD%90+THANK+YOU+FOR+VISITING" 
   alt="Typing SVG" 
   width="100%" 
 />
