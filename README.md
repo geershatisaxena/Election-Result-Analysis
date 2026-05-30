@@ -184,7 +184,7 @@
 
 ---
 
-# 🌈 Project Overview
+#  Project Overview
 
 <div align="center">
 
@@ -204,14 +204,14 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 #  Project Objectives
 
-### 🗳️ Electoral Analysis
+###  Electoral Analysis
 
 - Analyze constituency-wise election outcomes
 - Evaluate winning party performance
 - Measure electoral competitiveness
 - Study victory margins
 
-### 🇮🇳 Political Intelligence
+###  Political Intelligence
 
 - Compare political party performance
 - Identify strongholds and swing regions
@@ -262,7 +262,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🏆 Executive Dashboard
+#  Executive Dashboard
 
 | KPI | Description |
 |------|-------------|
