@@ -445,7 +445,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 📈 Electoral Trends Dashboard
+#  Electoral Trends Dashboard
 
 ![Trends Dashboard](assets/electoral-trends.png)
 
@@ -462,15 +462,15 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 
 
-# 📋 Key Findings
+#  Key Findings
 
-### 🏆 Political Performance
+###  Political Performance
 
 - Major parties secured significant parliamentary representation
 - Regional parties maintained strong influence in key states
 - Alliance strategies played an important role
 
-### 📊 Electoral Competition
+###  Electoral Competition
 
 - Numerous constituencies experienced close contests
 - Victory margins varied substantially
@@ -484,7 +484,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🎯 Strategic Insights
+#  Strategic Insights
 
 ✅ Electoral alliances improve seat conversion efficiency
 
@@ -498,7 +498,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🚀 Future Scope
+#  Future Scope
 
 ### Advanced Political Analytics
 
@@ -523,7 +523,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
