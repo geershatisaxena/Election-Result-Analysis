@@ -275,7 +275,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🏛️ Party-Wise Seat Distribution Analysis
+#  Party-Wise Seat Distribution Analysis
 
 ![Party Seat Distribution](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/seat.png)
 
@@ -292,17 +292,17 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ### Insights
 
-📊 A small group of major parties accounts for the majority of Lok Sabha seats.
+- A small group of major parties accounts for the majority of Lok Sabha seats.
 
-🏆 National parties maintain significant parliamentary presence, while regional parties continue to influence key states.
+- National parties maintain significant parliamentary presence, while regional parties continue to influence key states.
 
-🗳️ Seat distribution reveals clear political strongholds and competitive battleground regions.
+- Seat distribution reveals clear political strongholds and competitive battleground regions.
 
-📈 Several parties demonstrated substantial gains through concentrated regional support.
+- Several parties demonstrated substantial gains through concentrated regional support.
 
-🌍 Regional political dynamics remain a critical factor in determining overall parliamentary representation.
+- Regional political dynamics remain a critical factor in determining overall parliamentary representation.
 
-⭐ The final seat tally highlights the balance between national dominance and regional political influence.
+ The final seat tally highlights the balance between national dominance and regional political influence.
 
 ---
 
