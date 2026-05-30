@@ -202,7 +202,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 ### 🗳️ Electoral Analysis
 
@@ -218,14 +218,14 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 - Understand regional voting trends
 - Examine party dominance patterns
 
-### 📊 Data Exploration
+###  Data Exploration
 
 - Constituency-level insights
 - Margin distribution analysis
 - Candidate performance analysis
 - Status and result verification
 
-### 📈 Visualization & Insights
+###  Visualization & Insights
 
 - Electoral maps
 - Party performance dashboards
@@ -234,7 +234,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 | Field | Description |
 |---------|------------|
@@ -249,7 +249,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 📊 Dataset Snapshot
+#  Dataset Snapshot
 
 | Metric | Description |
 |---------|-------------|
