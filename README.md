@@ -306,7 +306,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🏛️ Political Party Performance
+#  Political Party Performance
 
 ![Party Performance](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/votes.png)
 
@@ -320,15 +320,15 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ### Major Findings
 
-🏆 National parties continue to dominate several regions
+- National parties continue to dominate several regions
 
-📈 Regional parties remain influential in state politics
+- Regional parties remain influential in state politics
 
-🔥 Strategic alliances significantly impact seat conversion
+- Strategic alliances significantly impact seat conversion
 
 ---
 
-# 🗳️ Vote Share Comparison: Narendra Modi vs Rahul Gandhi vs Amit Shah
+#  Vote Share Comparison: Narendra Modi vs Rahul Gandhi vs Amit Shah
 
 ![Vote Comparison](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/compare.png)
 
@@ -360,7 +360,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 # ⚔️ Margin of Victory Analysis
 
-![Margin Analysis](assets/margin-analysis.png)
+
 
 ### Categories
 
@@ -383,7 +383,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 # 🥇 Top Winning Margins
 
-![Top Margins](assets/top-winning-margins.png)
+
 
 ### Analysis
 
@@ -393,7 +393,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 - Exceptional electoral mandates
 
 ---
-# 📉 Top Trailing Parties Analysis by Votes
+#  Top Trailing Parties Analysis by Votes
 
 ![Top Trailing Parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/tv.png)
 
@@ -426,7 +426,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 # 🌍 Regional Performance Analysis
 
-![Regional Analysis](assets/regional-analysis.png)
+
 
 ### Coverage
 
@@ -437,7 +437,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ### Insights
 
-🇮🇳 Political preferences vary substantially across regions
+ Political preferences vary substantially across regions
 
 📈 State-level dynamics influence national outcomes
 
@@ -447,7 +447,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 #  Electoral Trends Dashboard
 
-![Trends Dashboard](assets/electoral-trends.png)
+
 
 ### Explored Metrics
 
