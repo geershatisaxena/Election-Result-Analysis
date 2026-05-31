@@ -172,7 +172,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/kc_m.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Kerala%20Congress%20(M).png" width="110"><br>
 <b>Kerala Congress (M)</b>
 </td>
 
