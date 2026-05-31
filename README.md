@@ -51,7 +51,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/tmc.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png" width="110"><br>
 <b>All India Trinamool Congress</b>
 </td>
 
