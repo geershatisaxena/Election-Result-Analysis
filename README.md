@@ -109,7 +109,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/cpi.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India.png" width="110"><br>
 <b>Communist Party of India</b>
 </td>
 
