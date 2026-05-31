@@ -36,7 +36,7 @@
 <tr>
 
 <td align="center">
-<img src="assets/logos/bjp.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png" width="110"><br>
 <b>Bharatiya Janata Party</b>
 </td>
 
