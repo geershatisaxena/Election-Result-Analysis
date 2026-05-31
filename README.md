@@ -41,7 +41,7 @@
 </td>
 
 <td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congress.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congresss.png" width="110"><br>
 <b>Indian National Congress</b>
 </td>
 
