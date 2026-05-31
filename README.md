@@ -85,7 +85,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/cpim.png" width="110"><br>
+<img src="" width="110"><br>
 <b>Communist Party of India (Marxist)</b>
 </td>
 
