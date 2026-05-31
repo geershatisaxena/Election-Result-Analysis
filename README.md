@@ -167,7 +167,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/iuML.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg" width="110"><br>
 <b>Indian Union Muslim League</b>
 </td>
 
