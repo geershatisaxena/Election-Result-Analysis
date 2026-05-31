@@ -46,7 +46,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/sp.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png" width="110"><br>
 <b>Samajwadi Party</b>
 </td>
 
