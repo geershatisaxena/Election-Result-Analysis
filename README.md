@@ -162,7 +162,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/apnadal.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Apna%20Dal%20(Sonelal).png" width="110"><br>
 <b>Apna Dal (Sonelal)</b>
 </td>
 
