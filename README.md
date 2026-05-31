@@ -123,7 +123,7 @@
 <tr>
 
 <td align="center">
-<img src="assets/logos/aap.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png" width="110"><br>
 <b>Aam Aadmi Party</b>
 </td>
 
