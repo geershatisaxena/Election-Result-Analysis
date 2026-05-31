@@ -85,7 +85,7 @@
 </td>
 
 <td align="center">
-<img src="" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png" width="110"><br>
 <b>Communist Party of India (Marxist)</b>
 </td>
 
