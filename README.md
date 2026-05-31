@@ -99,7 +99,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/ncp.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Nationalist%20Congress%20Party.jpg" width="110"><br>
 <b>Nationalist Congress Party</b>
 </td>
 
