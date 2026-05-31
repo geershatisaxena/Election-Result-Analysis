@@ -104,7 +104,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/rjd.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Janata%20Dal.png" width="110"><br>
 <b>Rashtriya Janata Dal</b>
 </td>
 
