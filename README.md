@@ -157,7 +157,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/vck.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Viduthalai%20Chiruthaigal%20Katchi.png" width="110"><br>
 <b>Viduthalai Chiruthaigal Katchi</b>
 </td>
 
