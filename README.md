@@ -75,7 +75,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/shivsenaubt.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg" width="110"><br>
 <b>Shiv Sena (UBT)</b>
 </td>
 
