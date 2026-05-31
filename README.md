@@ -143,7 +143,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/aimim.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Majlis-e-Ittehadul%20Muslimeen.jpg" width="110"><br>
 <b>All India Majlis-e-Ittehadul Muslimeen</b>
 </td>
 
