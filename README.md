@@ -133,7 +133,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/ysrcp.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg" width="110"><br>
 <b>YSR Congress Party</b>
 </td>
 
