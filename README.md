@@ -114,7 +114,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/jmm.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png" width="110"><br>
 <b>Jharkhand Mukti Morcha</b>
 </td>
 
