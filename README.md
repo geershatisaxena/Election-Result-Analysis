@@ -152,7 +152,7 @@
 <tr>
 
 <td align="center">
-<img src="assets/logos/akali.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiromani%20Akali%20Dal.jpg" width="110"><br>
 <b>Shiromani Akali Dal</b>
 </td>
 
