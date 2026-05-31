@@ -56,7 +56,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/dmk.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg" width="110"><br>
 <b>Dravida Munnetra Kazhagam</b>
 </td>
 
