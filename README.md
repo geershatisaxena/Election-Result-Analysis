@@ -80,7 +80,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/ncp_sp.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg" width="110"><br>
 <b>NCP (Sharad Pawar)</b>
 </td>
 
