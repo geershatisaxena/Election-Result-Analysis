@@ -138,7 +138,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/rld.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Lok%20Dal.png" width="110"><br>
 <b>Rashtriya Lok Dal</b>
 </td>
 
