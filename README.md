@@ -65,7 +65,7 @@
 <tr>
 
 <td align="center">
-<img src="http://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu Desam Party.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png" width="110"><br>
 <b>Telugu Desam Party</b>
 </td>
 
