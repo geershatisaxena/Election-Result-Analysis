@@ -94,7 +94,7 @@
 <tr>
 
 <td align="center">
-<img src="assets/logos/shivsena.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png" width="110"><br>
 <b>Shiv Sena</b>
 </td>
 
