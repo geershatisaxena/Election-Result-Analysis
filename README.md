@@ -70,7 +70,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/jdu.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png" width="110"><br>
 <b>Janata Dal (United)</b>
 </td>
 
