@@ -128,7 +128,7 @@
 </td>
 
 <td align="center">
-<img src="assets/logos/ljp.png" width="110"><br>
+<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg" width="110"><br>
 <b>Lok Janshakti Party (Ram Vilas)</b>
 </td>
 
