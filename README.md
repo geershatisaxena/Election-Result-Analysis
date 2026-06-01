@@ -347,7 +347,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 - All three leaders secured decisive victories with substantial voter mandates.
 
-📊 Vote share analysis highlights varying levels of electoral dominance across constituencies.
+- Vote share analysis highlights varying levels of electoral dominance across constituencies.
 
 🚀 Large winning margins reflect strong grassroots support and effective campaign outreach.
 
