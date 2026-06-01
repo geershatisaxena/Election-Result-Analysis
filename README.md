@@ -349,7 +349,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 - Vote share analysis highlights varying levels of electoral dominance across constituencies.
 
-🚀 Large winning margins reflect strong grassroots support and effective campaign outreach.
+- Large winning margins reflect strong grassroots support and effective campaign outreach.
 
 🗳️ Candidate popularity remains closely linked to regional political dynamics and party strength.
 
