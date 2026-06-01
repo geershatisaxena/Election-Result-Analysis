@@ -353,7 +353,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 - Candidate popularity remains closely linked to regional political dynamics and party strength.
 
-📈 Vote-count comparison reveals significant differences in voter concentration and constituency size.
+- Vote-count comparison reveals significant differences in voter concentration and constituency size.
 
 ⭐ The electoral performance of these leaders demonstrates their continued influence in shaping India's political landscape.
 ---
