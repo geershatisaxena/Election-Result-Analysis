@@ -351,7 +351,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 - Large winning margins reflect strong grassroots support and effective campaign outreach.
 
-🗳️ Candidate popularity remains closely linked to regional political dynamics and party strength.
+- Candidate popularity remains closely linked to regional political dynamics and party strength.
 
 📈 Vote-count comparison reveals significant differences in voter concentration and constituency size.
 
