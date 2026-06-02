@@ -373,7 +373,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ### Key Insights
 
-🔥 Several constituencies witnessed extremely close contests
+- Several constituencies witnessed extremely close contests
 
 🏆 Large victory margins indicate strong voter consolidation
 
