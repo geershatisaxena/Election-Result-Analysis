@@ -1,190 +1,104 @@
-
 <div align="center">
 
+<!-- INDIAN FLAG CAPSULE BANNER - PREMIUM ANIMATED -->
+<a href="https://github.com/geershatisaxena/Election-Result-Analysis">
+  <img src="https://capsule-render.vercel.app/api?type=pill&height=80&color=gradient&gradientColors=FF9933,FFFFFF,138808&text=🇮🇳%20JAI%20HIND%20🇮🇳&fontSize=32&fontColor=000000&animation=twinkling&fontAlignY=50" width="100%"/>
+</a>
+
+<!-- ANIMATED VISITOR BADGE (TOP RIGHT) -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=LokSabha2024&label=🇮🇳%20PATRIOTIC%20VIEWS&color=FF9933&style=for-the-badge&labelColor=138808" alt="visitor badge"/>
+</p>
+
+<!-- WAVING TRICOLOUR BANNER WITH TITLE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808&text=LOK%20SABHA%20ELECTION%202024%20DATA%20ANALYSIS&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Comprehensive%20Analysis%20of%20India's%20Largest%20Democratic%20Election&descAlignY=62"/>
 <br>
 
+<!-- ANIMATED TYPING SVG WITH RAINBOW GLOW -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=1200&height=130&lines=LOK+SABHA+ELECTION+2024+ANALYTICS;543+CONSTITUENCIES+DATA+EXPLORATION;PARTY+PERFORMANCE+AND+ELECTORAL+TRENDS;PANDAS+%7C+NUMPY+%7C+MATPLOTLIB+%7C+SEABORN" alt="Typing SVG"/>
 </p>
 
-<br>
+<!-- TECHNOLOGY BADGES WITH SCALE HOVER -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Constituencies-543-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Election-2024-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Political%20Analytics-Advanced-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Science-Project-purple?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/Constituencies-543-success?style=flat-square&color=138808"/>
+  <img src="https://img.shields.io/badge/Election-2024-orange?style=flat-square&color=FF9933"/>
+  <img src="https://img.shields.io/badge/Political%20Analytics-Advanced-blue?style=flat-square&color=000080"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Project-purple?style=flat-square"/>
+</p>
 
 </div>
 
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&gradientColors=FF9933,FFFFFF,138808&text=&fontSize=0" width="100%"/>
+
 ---
 
-# Lok Sabha Election 2024 Political Parties
+# 🇮🇳 Lok Sabha Election 2024 Political Parties
 
 <div align="center">
 
-<table>
+<!-- GLOWING CARDS FOR PARTIES (HOVER SCALE EFFECT) -->
+<style>
+  .party-card { transition: all 0.3s ease; border-radius: 16px; padding: 10px; background: linear-gradient(135deg, rgba(255,153,51,0.1), rgba(19,136,8,0.1)); }
+  .party-card:hover { transform: scale(1.05); box-shadow: 0 0 20px rgba(255,153,51,0.6); background: linear-gradient(135deg, rgba(255,153,51,0.2), rgba(19,136,8,0.2)); }
+  img { transition: all 0.3s; border-radius: 12px; }
+</style>
 
-<tr>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png" width="110"><br>
-<b>Bharatiya Janata Party</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congresss.png" width="110"><br>
-<b>Indian National Congress</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png" width="110"><br>
-<b>Samajwadi Party</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png" width="110"><br>
-<b>All India Trinamool Congress</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg" width="110"><br>
-<b>Dravida Munnetra Kazhagam</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png" width="110"><br>
-<b>Telugu Desam Party</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png" width="110"><br>
-<b>Janata Dal (United)</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg" width="110"><br>
-<b>Shiv Sena (UBT)</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg" width="110"><br>
-<b>NCP (Sharad Pawar)</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png" width="110"><br>
-<b>Communist Party of India (Marxist)</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png" width="110"><br>
-<b>Shiv Sena</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Nationalist%20Congress%20Party.jpg" width="110"><br>
-<b>Nationalist Congress Party</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Janata%20Dal.png" width="110"><br>
-<b>Rashtriya Janata Dal</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India.png" width="110"><br>
-<b>Communist Party of India</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png" width="110"><br>
-<b>Jharkhand Mukti Morcha</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png" width="110"><br>
-<b>Aam Aadmi Party</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg" width="110"><br>
-<b>Lok Janshakti Party (Ram Vilas)</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg" width="110"><br>
-<b>YSR Congress Party</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Lok%20Dal.png" width="110"><br>
-<b>Rashtriya Lok Dal</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Majlis-e-Ittehadul%20Muslimeen.jpg" width="110"><br>
-<b>All India Majlis-e-Ittehadul Muslimeen</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiromani%20Akali%20Dal.jpg" width="110"><br>
-<b>Shiromani Akali Dal</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Viduthalai%20Chiruthaigal%20Katchi.png" width="110"><br>
-<b>Viduthalai Chiruthaigal Katchi</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Apna%20Dal%20(Sonelal).png" width="110"><br>
-<b>Apna Dal (Sonelal)</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg" width="110"><br>
-<b>Indian Union Muslim League</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Kerala%20Congress%20(M).png" width="110"><br>
-<b>Kerala Congress (M)</b>
-</td>
-
-</tr>
-
+<table style="border-collapse: collapse; border: none;">
+ <tr>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png" width="110"><br><b>Bharatiya Janata Party</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congresss.png" width="110"><br><b>Indian National Congress</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png" width="110"><br><b>Samajwadi Party</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png" width="110"><br><b>All India Trinamool Congress</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg" width="110"><br><b>Dravida Munnetra Kazhagam</b></td>
+ </tr>
+ <tr>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png" width="110"><br><b>Telugu Desam Party</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png" width="110"><br><b>Janata Dal (United)</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg" width="110"><br><b>Shiv Sena (UBT)</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg" width="110"><br><b>NCP (Sharad Pawar)</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png" width="110"><br><b>Communist Party of India (Marxist)</b></td>
+ </tr>
+ <tr>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png" width="110"><br><b>Shiv Sena</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Nationalist%20Congress%20Party.jpg" width="110"><br><b>Nationalist Congress Party</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Janata%20Dal.png" width="110"><br><b>Rashtriya Janata Dal</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India.png" width="110"><br><b>Communist Party of India</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png" width="110"><br><b>Jharkhand Mukti Morcha</b></td>
+ </tr>
+ <tr>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png" width="110"><br><b>Aam Aadmi Party</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg" width="110"><br><b>Lok Janshakti Party (Ram Vilas)</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg" width="110"><br><b>YSR Congress Party</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Lok%20Dal.png" width="110"><br><b>Rashtriya Lok Dal</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Majlis-e-Ittehadul%20Muslimeen.jpg" width="110"><br><b>All India Majlis-e-Ittehadul Muslimeen</b></td>
+ </tr>
+ <tr>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiromani%20Akali%20Dal.jpg" width="110"><br><b>Shiromani Akali Dal</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Viduthalai%20Chiruthaigal%20Katchi.png" width="110"><br><b>Viduthalai Chiruthaigal Katchi</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Apna%20Dal%20(Sonelal).png" width="110"><br><b>Apna Dal (Sonelal)</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg" width="110"><br><b>Indian Union Muslim League</b></td>
+   <td align="center" class="party-card"><img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Kerala%20Congress%20(M).png" width="110"><br><b>Kerala Congress (M)</b></td>
+ </tr>
 </table>
 
 </div>
 
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&gradientColors=FF9933,FFFFFF,138808&text=&fontSize=0" width="100%"/>
+
 ---
 
-#  Project Overview
+# 🚀 Project Overview
 
 <div align="center">
 
@@ -200,32 +114,35 @@ The <b>Lok Sabha Election 2024 Data Analysis Project</b> provides an in-depth ex
 The analysis covers all parliamentary constituencies and highlights regional dynamics, alliance strength, winning patterns, and constituency-level competitiveness.
 </p>
 
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&gradientColors=FF9933,FFFFFF,138808&text=&fontSize=0" width="100%"/>
+
 ---
 
-#  Project Objectives
+# 🎯 Project Objectives
 
-###  Electoral Analysis
+### 🗳️ Electoral Analysis
 
 - Analyze constituency-wise election outcomes
 - Evaluate winning party performance
 - Measure electoral competitiveness
 - Study victory margins
 
-###  Political Intelligence
+### 📊 Political Intelligence
 
 - Compare political party performance
 - Identify strongholds and swing regions
 - Understand regional voting trends
 - Examine party dominance patterns
 
-###  Data Exploration
+### 🔍 Data Exploration
 
 - Constituency-level insights
 - Margin distribution analysis
 - Candidate performance analysis
 - Status and result verification
 
-###  Visualization & Insights
+### 📈 Visualization & Insights
 
 - Electoral maps
 - Party performance dashboards
@@ -234,7 +151,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Dataset Information
+# 📁 Dataset Information
 
 | Field | Description |
 |---------|------------|
@@ -249,7 +166,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Dataset Snapshot
+# 📊 Dataset Snapshot
 
 | Metric | Description |
 |---------|-------------|
@@ -262,7 +179,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Executive Dashboard
+# 📋 Executive Dashboard
 
 | KPI | Description |
 |------|-------------|
@@ -275,7 +192,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Party-Wise Seat Distribution Analysis
+# 🏛️ Party-Wise Seat Distribution Analysis
 
 ![Party Seat Distribution](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/seat.png)
 
@@ -306,7 +223,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Political Party Performance
+# 📈 Political Party Performance
 
 ![Party Performance](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/votes.png)
 
@@ -328,7 +245,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Vote Share Comparison: Narendra Modi vs Rahul Gandhi vs Amit Shah
+# 🥇 Vote Share Comparison: Narendra Modi vs Rahul Gandhi vs Amit Shah
 
 ![Vote Comparison](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/compare.png)
 
@@ -360,8 +277,6 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 # ⚔️ Margin of Victory Analysis
 
-
-
 ### Categories
 
 | Margin Type | Description |
@@ -381,9 +296,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-# 🥇 Top Winning Margins
-
-
+# 🏆 Top Winning Margins
 
 ### Analysis
 
@@ -393,7 +306,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 - Exceptional electoral mandates
 
 ---
-#  Top Trailing Parties Analysis by Votes
+# 📉 Top Trailing Parties Analysis by Votes
 
 ![Top Trailing Parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/tv.png)
 
@@ -426,8 +339,6 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 # 🌍 Regional Performance Analysis
 
-
-
 ### Coverage
 
 - State-wise seat distribution
@@ -445,9 +356,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Electoral Trends Dashboard
-
-
+# 📊 Electoral Trends Dashboard
 
 ### Explored Metrics
 
@@ -459,18 +368,15 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
+# 🔑 Key Findings
 
-
-
-#  Key Findings
-
-###  Political Performance
+### 🏛️ Political Performance
 
 - Major parties secured significant parliamentary representation
 - Regional parties maintained strong influence in key states
 - Alliance strategies played an important role
 
-###  Electoral Competition
+### ⚡ Electoral Competition
 
 - Numerous constituencies experienced close contests
 - Victory margins varied substantially
@@ -484,7 +390,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Strategic Insights
+# 💡 Strategic Insights
 
 ✅ Electoral alliances improve seat conversion efficiency
 
@@ -498,7 +404,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Future Scope
+# 🔮 Future Scope
 
 ### Advanced Political Analytics
 
@@ -523,7 +429,7 @@ The analysis covers all parliamentary constituencies and highlights regional dyn
 
 ---
 
-#  Technology Stack
+# 🛠️ Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -546,6 +452,7 @@ The findings highlight the complexity of India's political landscape and demonst
 
 <div align="center">
 
+<!-- ANIMATED WAVING FOOTER WITH TRICOLOUR -->
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=gradient&customColorList=24,12,20,17,30,6,2" 
   width="100%" 
@@ -556,6 +463,10 @@ The findings highlight the complexity of India's political landscape and demonst
   alt="Typing SVG" 
   width="100%" 
 />
-### ⭐ If you found this project useful, consider giving it a star ⭐
+
+### 🇮🇳 ⭐ If you found this project useful, consider giving it a star ⭐ 🇮🇳
+
+<!-- INDIAN FLAG MINI BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=pill&height=40&color=gradient&gradientColors=FF9933,FFFFFF,138808&text=🇮🇳%20VANDE%20MATARAM%20🇮🇳&fontSize=20&fontColor=000000&animation=twinkling&fontAlignY=50" width="60%"/>
 
 </div>
