@@ -138,7 +138,7 @@
 <!--              ROW 2 — KEY REGIONAL ALLIES                      -->
 <!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=FF9933&center=true&vCenter=true&width=700&height=40&lines=🟢+Key+Regional+Alliance+Partners" alt="Row2 Label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=138808&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%9F%A2+Key+Regional+Alliance+Partners" alt="Row2 Label" />
 
 <br/>
 
