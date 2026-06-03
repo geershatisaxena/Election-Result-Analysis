@@ -29,7 +29,7 @@
 <!--                     TYPING ANIMATION SVG                      -->
 <!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=1200&height=120&lines=🇮🇳+LOK+SABHA+ELECTION+2024+ANALYTICS;543+CONSTITUENCIES+DATA+EXPLORATION;PARTY+PERFORMANCE+%26+ELECTORAL+TRENDS;PANDAS+%7C+NUMPY+%7C+MATPLOTLIB+%7C+SEABORN" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=1200&height=120&lines=LOK+SABHA+ELECTION+2024+ANALYTICS;543+CONSTITUENCIES+DATA+EXPLORATION;PARTY+PERFORMANCE+%26+ELECTORAL+TRENDS;PANDAS+%7C+NUMPY+%7C+MATPLOTLIB+%7C+SEABORN" alt="Typing SVG" />
 
 <br/><br/>
 
