@@ -301,7 +301,7 @@
 <!--              ROW 5 — REGIONAL SPECIALISTS                     -->
 <!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=CD7F32&center=true&vCenter=true&width=700&height=40&lines=Regional+Specialists+%26+Community+Parties" alt="Row5 Label" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=DC143C&center=true&vCenter=true&width=700&height=40&lines=Regional+Specialists+%26+Community+Parties" alt="Row5 Label" />
 
 <br/>
 
