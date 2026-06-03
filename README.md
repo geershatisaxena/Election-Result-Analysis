@@ -5,15 +5,11 @@
 <!--                  INDIAN FLAG CAPSULE BANNER                   -->
 <!-- ============================================================ -->
 
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=16&color=FF9933&section=header&reversal=false" width="100%" />
-</a>
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=16&color=FFFFFF&section=header" width="100%" />
-</a>
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=16&color=138808&section=header" width="100%" />
-</a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=16&color=FF9933" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=16&color=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=16&color=138808" width="100%" />
+</div>
 
 <br/>
 
