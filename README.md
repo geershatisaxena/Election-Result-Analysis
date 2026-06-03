@@ -13,10 +13,6 @@
 
 <br/>
 
-src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="100%"/>
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808&text=🇮🇳+JAI+HIND&fontSize=38&fontColor=1a1a2e&fontAlignY=55&animation=twinkling"/>
-
 <!-- ============================================================ -->
 <!--                     TYPING ANIMATION SVG                      -->
 <!-- ============================================================ -->
