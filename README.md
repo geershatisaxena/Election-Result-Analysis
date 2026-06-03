@@ -247,8 +247,7 @@
 <!--              ROW 4 — EMERGING & COALITION PARTIES             -->
 <!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=FF9933&center=true&vCenter=true&width=700&height=40&lines=🟡+Emerging+%26+Coalition+Partners" alt="Row4 Label"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=FF1493&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%8C%B8+Emerging+%26+Coalition+Partners" alt="Row4 Label" />
 <br/>
 
 <table>
