@@ -344,11 +344,6 @@
 
 
 
-<!-- ============================================================ -->
-<!--              FOOTER WAVE                                      -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808&text=🇮🇳+Jai+Hind&fontSize=30&fontColor=1a1a2e&fontAlignY=60&animation=twinkling" width="100%"/>
 
 </div>
 
