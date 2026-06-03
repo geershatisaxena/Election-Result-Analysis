@@ -79,7 +79,7 @@
 <!--              ROW 1 — NATIONAL FRONT RUNNERS                   -->
 <!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=138808&center=true&vCenter=true&width=700&height=40&lines=🟠+National+%26+Major+Alliance+Parties" alt="Row1 Label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=16&pause=2000&color=FF9933&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%87%AE%F0%9F%87%B3+National+%26+Major+Alliance+Parties" alt="Row1 Label" />
 
 <br/>
 
