@@ -193,8 +193,7 @@
 <!--              ROW 3 — STATE-LEVEL INFLUENCERS                  -->
 <!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=138808&center=true&vCenter=true&width=700&height=40&lines=🔵+State-Level+Political+Influencers" alt="Row3 Label"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=16&pause=2000&color=000080&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%87%AE%F0%9F%87%B3+State-Level+Political+Influencers" alt="Row3 Label" />
 <br/>
 
 <table>
