@@ -13,13 +13,7 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                     ANIMATED MAIN BANNER                      -->
-<!-- ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808&text=LOK%20SABHA%20ELECTION%202024&fontSize=46&fontColor=1a1a2e&animation=twinkling&fontAlignY=38&desc=Comprehensive%20Data%20Analysis%20of%20India's%20Largest%20Democratic%20Election&descAlignY=60&descSize=18&fontStyle=bold"/>
-
-<br/>
 
 <!-- ============================================================ -->
 <!--                     TYPING ANIMATION SVG                      -->
