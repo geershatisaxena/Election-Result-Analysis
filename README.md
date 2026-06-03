@@ -348,21 +348,7 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!--              PARTY COUNT SUMMARY BADGES                       -->
-<!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="80%"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏛️_Total_Parties_Showcased-25-FF9933?style=for-the-badge&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🗳️_Election_Year-2024-138808?style=for-the-badge&labelColor=1a1a2e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🇮🇳_Lok_Sabha_Seats-543-navy?style=for-the-badge&labelColor=1a1a2e"/>
-
-<br/><br/>
 
 <!-- ============================================================ -->
 <!--              FOOTER WAVE                                      -->
