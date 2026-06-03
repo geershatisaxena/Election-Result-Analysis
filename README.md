@@ -1168,7 +1168,7 @@ The findings highlight the complexity of India's political landscape and demonst
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808&text=🇮🇳+JAI+HIND&fontSize=38&fontColor=1a1a2e&fontAlignY=55&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2500&pause=700&color=FF9933&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=80&lines=🇮🇳+LOK+SABHA+ELECTION+2024+ANALYTICS+%7C+POLITICAL+INTELLIGENCE+THROUGH+DATA;🚀+PANDAS+•+NUMPY+•+MATPLOTLIB+•+SEABORN+%7C+🪔+THANK+YOU+FOR+VISITING" alt="Footer Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=2000&color=CD7F32&center=true&vCenter=true&width=700&height=40&lines=%E2%97%8F+Regional+Specialists+%26+Community+Parties" alt="Row5 Label" />
 
 <br/>
 
