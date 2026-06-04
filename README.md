@@ -353,7 +353,7 @@
 <div align="center">
 
 <h2>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&pause=1000&color=FF9933&center=true&vCenter=true&width=500&height=50&lines=📋+TABLE+OF+CONTENTS" alt="TOC"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&pause=1000&color=FF9933&center=true&vCenter=true&width=500&height=50&lines=+TABLE+OF+CONTENTS" alt="TOC"/>
 </h2>
 
 </div>
