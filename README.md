@@ -367,7 +367,7 @@
 | [ Party Performance](#-political-party-performance) | [ Vote Share Comparison](#️-vote-share-comparison) | [⚔️ Margin Analysis](#️-margin-of-victory-analysis) |
 | [ Top Winning Margins](#-top-winning-margins) | [ Trailing Parties](#-top-trailing-parties-analysis-by-votes) | [🌍 Regional Performance](#-regional-performance-analysis) |
 | [ Electoral Trends](#-electoral-trends-dashboard) | [ Key Findings](#-key-findings) | [🚀 Future Scope](#-future-scope) |
-| [ Tech Stack](#-technology-stack) | [ Conclusion](#-conclusion) | [⭐ Support](#-support) |
+| [ Tech Stack](#-technology-stack) | [ Conclusion](#-conclusion) | [ Support](#-support) |
 
 </div>
 
