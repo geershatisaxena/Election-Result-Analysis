@@ -48,7 +48,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/_Constituencies-543-FF9933?style=flat-square&labelColor=1a1a2e"/>
-&nbsp;<img src="https://img.shields.io/badge/📅_Election_Year-2024-138808?style=flat-square&labelColor=1a1a2e"/>
+&nbsp;<img src="https://img.shields.io/badge/_Election_Year-2024-138808?style=flat-square&labelColor=1a1a2e"/>
 &nbsp;<img src="https://img.shields.io/badge/⚡_Political_Analytics-Advanced-navy?style=flat-square&labelColor=1a1a2e"/>
 &nbsp;<img src="https://img.shields.io/badge/📊_Data_Science-Project-gold?style=flat-square&labelColor=1a1a2e"/>
 
