@@ -363,7 +363,7 @@
 | 🔗 Section | 🔗 Section | 🔗 Section |
 |:---:|:---:|:---:|
 | [ Project Overview](#-project-overview) | [ Project Objectives](#-project-objectives) | [📂 Dataset Information](#-dataset-information) |
-| [ Dataset Snapshot](#-dataset-snapshot) | [📊 Executive Dashboard](#-executive-dashboard) | [🏛️ Party Seat Distribution](#️-party-wise-seat-distribution-analysis) |
+| [ Dataset Snapshot](#-dataset-snapshot) | [ Executive Dashboard](#-executive-dashboard) | [🏛️ Party Seat Distribution](#️-party-wise-seat-distribution-analysis) |
 | [ Party Performance](#-political-party-performance) | [🗳️ Vote Share Comparison](#️-vote-share-comparison) | [⚔️ Margin Analysis](#️-margin-of-victory-analysis) |
 | [ Top Winning Margins](#-top-winning-margins) | [📍 Trailing Parties](#-top-trailing-parties-analysis-by-votes) | [🌍 Regional Performance](#-regional-performance-analysis) |
 | [ Electoral Trends](#-electoral-trends-dashboard) | [🔍 Key Findings](#-key-findings) | [🚀 Future Scope](#-future-scope) |
