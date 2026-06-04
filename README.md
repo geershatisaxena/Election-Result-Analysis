@@ -385,7 +385,7 @@
 
 ## 🇮🇳 Project Overview
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1000&color=138808&center=true&vCenter=true&width=1100&lines=🪔+Exploring+India's+Largest+Democratic+Exercise;📊+Analyzing+543+Parliamentary+Constituencies;🔍+Understanding+Political+Trends+Through+Data"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1000&color=138808&center=true&vCenter=true&width=1100&lines=+Exploring+India's+Largest+Democratic+Exercise;📊+Analyzing+543+Parliamentary+Constituencies;🔍+Understanding+Political+Trends+Through+Data"/>
 
 </div>
 
