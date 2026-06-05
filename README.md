@@ -427,7 +427,7 @@ The analysis covers all <b>543 parliamentary constituencies</b> and highlights r
 
 ### 🗳️ Electoral Analysis
 
-- 📍 Analyze constituency-wise election outcomes
+-  Analyze constituency-wise election outcomes
 - 🏆 Evaluate winning party performance
 - ⚖️ Measure electoral competitiveness
 - 📏 Study victory margins
