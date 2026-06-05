@@ -417,7 +417,7 @@ The analysis covers all <b>543 parliamentary constituencies</b> and highlights r
 
 <div align="center">
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 </div>
 
