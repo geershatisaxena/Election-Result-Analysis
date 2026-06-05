@@ -429,7 +429,7 @@ The analysis covers all <b>543 parliamentary constituencies</b> and highlights r
 
 -  Analyze constituency-wise election outcomes
 -  Evaluate winning party performance
-- ⚖️ Measure electoral competitiveness
+-  Measure electoral competitiveness
 -  Study victory margins
 
 ### 🧭 Political Intelligence
