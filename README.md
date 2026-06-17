@@ -67,7 +67,6 @@
 
 <div align="center">
 
-
 <!-- ============================================================ -->
 <!--              🏛️ INDIAN POLITICAL PARTY DIRECTORY 2026          -->
 <!-- ============================================================ -->
@@ -105,68 +104,58 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png?raw=true" width="80" style="border-radius:50%; border:3px solid #FF9933; animation: pulse 2s infinite;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png?raw=true" width="80">
       <br/>
-      <strong style="color:#FF9933;">BJP</strong>
+      <strong>BJP</strong>
       <br/>
       <sub>Bharatiya Janata Party</sub>
       <br/>
       <img src="https://img.shields.io/badge/NDA-FF9933?style=flat-square&labelColor=1a1a2e" />
       <br/>
-      <img src="https://progress-bar.dev/85/?width=100&color=FF9933" />
-      <br/>
       <sub>Ruling Party</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congresss.png?raw=true" width="80" style="border-radius:50%; border:3px solid #138808; animation: pulse 2s infinite 0.5s;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congresss.png?raw=true" width="80">
       <br/>
-      <strong style="color:#138808;">INC</strong>
+      <strong>INC</strong>
       <br/>
       <sub>Indian National Congress</sub>
       <br/>
       <img src="https://img.shields.io/badge/INDIA-138808?style=flat-square&labelColor=1a1a2e" />
       <br/>
-      <img src="https://progress-bar.dev/70/?width=100&color=138808" />
-      <br/>
       <sub>Main Opposition</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png?raw=true" width="80" style="border-radius:50%; border:3px solid #E63946; animation: pulse 2s infinite 1s;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png?raw=true" width="80">
       <br/>
-      <strong style="color:#E63946;">SP</strong>
+      <strong>SP</strong>
       <br/>
       <sub>Samajwadi Party</sub>
       <br/>
       <img src="https://img.shields.io/badge/INDIA-E63946?style=flat-square&labelColor=1a1a2e" />
       <br/>
-      <img src="https://progress-bar.dev/65/?width=100&color=E63946" />
-      <br/>
       <sub>UP Dominant</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png?raw=true" width="80" style="border-radius:50%; border:3px solid #2196F3; animation: pulse 2s infinite 1.5s;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png?raw=true" width="80">
       <br/>
-      <strong style="color:#2196F3;">AITC</strong>
+      <strong>AITC</strong>
       <br/>
       <sub>Trinamool Congress</sub>
       <br/>
       <img src="https://img.shields.io/badge/INDIA-2196F3?style=flat-square&labelColor=1a1a2e" />
       <br/>
-      <img src="https://progress-bar.dev/60/?width=100&color=2196F3" />
-      <br/>
       <sub>WB Ruling</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg?raw=true" width="80" style="border-radius:50%; border:3px solid #FF6B35; animation: pulse 2s infinite 2s;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg?raw=true" width="80">
       <br/>
-      <strong style="color:#FF6B35;">DMK</strong>
+      <strong>DMK</strong>
       <br/>
       <sub>Dravida Munnetra Kazhagam</sub>
       <br/>
       <img src="https://img.shields.io/badge/INDIA-FF6B35?style=flat-square&labelColor=1a1a2e" />
-      <br/>
-      <img src="https://progress-bar.dev/75/?width=100&color=FF6B35" />
       <br/>
       <sub>TN Ruling</sub>
     </td>
@@ -193,10 +182,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png?raw=true" width="70" style="border-radius:50%; border:3px solid #FFD700;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png?raw=true" width="70">
       <br/>
-      <strong style="color:#FFD700;">TDP</strong>
+      <strong>TDP</strong>
       <br/>
       <sub>Telugu Desam Party</sub>
       <br/>
@@ -204,10 +193,10 @@
       <br/>
       <sub>AP Ruling</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png?raw=true" width="70" style="border-radius:50%; border:3px solid #4CAF50;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png?raw=true" width="70">
       <br/>
-      <strong style="color:#4CAF50;">JDU</strong>
+      <strong>JDU</strong>
       <br/>
       <sub>Janata Dal (United)</sub>
       <br/>
@@ -215,10 +204,10 @@
       <br/>
       <sub>Bihar Ruling</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #FF5722;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg?raw=true" width="70">
       <br/>
-      <strong style="color:#FF5722;">SS(UBT)</strong>
+      <strong>SS(UBT)</strong>
       <br/>
       <sub>Shiv Sena (UBT)</sub>
       <br/>
@@ -226,10 +215,10 @@
       <br/>
       <sub>MH Opposition</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #9C27B0;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg?raw=true" width="70">
       <br/>
-      <strong style="color:#9C27B0;">NCP(SP)</strong>
+      <strong>NCP(SP)</strong>
       <br/>
       <sub>NCP (Sharad Pawar)</sub>
       <br/>
@@ -237,10 +226,10 @@
       <br/>
       <sub>MH Opposition</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png?raw=true" width="70" style="border-radius:50%; border:3px solid #F44336;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png?raw=true" width="70">
       <br/>
-      <strong style="color:#F44336;">CPI(M)</strong>
+      <strong>CPI(M)</strong>
       <br/>
       <sub>Communist Party (Marxist)</sub>
       <br/>
@@ -271,10 +260,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png?raw=true" width="70" style="border-radius:50%; border:3px solid #FF9800;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png?raw=true" width="70">
       <br/>
-      <strong style="color:#FF9800;">SS</strong>
+      <strong>SS</strong>
       <br/>
       <sub>Shiv Sena</sub>
       <br/>
@@ -282,10 +271,10 @@
       <br/>
       <sub>MH Ruling</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Nationalist%20Congress%20Party.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #3F51B5;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Nationalist%20Congress%20Party.jpg?raw=true" width="70">
       <br/>
-      <strong style="color:#3F51B5;">NCP</strong>
+      <strong>NCP</strong>
       <br/>
       <sub>Nationalist Congress</sub>
       <br/>
@@ -293,10 +282,10 @@
       <br/>
       <sub>MH Ruling</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Janata%20Dal.png?raw=true" width="70" style="border-radius:50%; border:3px solid #4CAF50;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Janata%20Dal.png?raw=true" width="70">
       <br/>
-      <strong style="color:#4CAF50;">RJD</strong>
+      <strong>RJD</strong>
       <br/>
       <sub>Rashtriya Janata Dal</sub>
       <br/>
@@ -304,10 +293,10 @@
       <br/>
       <sub>Bihar Opposition</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India.png?raw=true" width="70" style="border-radius:50%; border:3px solid #F44336;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India.png?raw=true" width="70">
       <br/>
-      <strong style="color:#F44336;">CPI</strong>
+      <strong>CPI</strong>
       <br/>
       <sub>Communist Party</sub>
       <br/>
@@ -315,10 +304,10 @@
       <br/>
       <sub>Left Front</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png?raw=true" width="70" style="border-radius:50%; border:3px solid #8BC34A;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png?raw=true" width="70">
       <br/>
-      <strong style="color:#8BC34A;">JMM</strong>
+      <strong>JMM</strong>
       <br/>
       <sub>Jharkhand Mukti Morcha</sub>
       <br/>
@@ -349,10 +338,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png?raw=true" width="70" style="border-radius:50%; border:3px solid #00BCD4;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png?raw=true" width="70">
       <br/>
-      <strong style="color:#00BCD4;">AAP</strong>
+      <strong>AAP</strong>
       <br/>
       <sub>Aam Aadmi Party</sub>
       <br/>
@@ -360,10 +349,10 @@
       <br/>
       <sub>Delhi/Punjab Ruling</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #FF9933;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg?raw=true" width="70">
       <br/>
-      <strong style="color:#FF9933;">LJPRV</strong>
+      <strong>LJPRV</strong>
       <br/>
       <sub>LJP (Ram Vilas)</sub>
       <br/>
@@ -371,10 +360,10 @@
       <br/>
       <sub>Bihar Coalition</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #1565C0;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg?raw=true" width="70">
       <br/>
-      <strong style="color:#1565C0;">YSRCP</strong>
+      <strong>YSRCP</strong>
       <br/>
       <sub>YSR Congress</sub>
       <br/>
@@ -382,10 +371,10 @@
       <br/>
       <sub>AP Opposition</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Lok%20Dal.png?raw=true" width="70" style="border-radius:50%; border:3px solid #43A047;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Lok%20Dal.png?raw=true" width="70">
       <br/>
-      <strong style="color:#43A047;">RLD</strong>
+      <strong>RLD</strong>
       <br/>
       <sub>Rashtriya Lok Dal</sub>
       <br/>
@@ -393,10 +382,10 @@
       <br/>
       <sub>UP Coalition</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Majlis-e-Ittehadul%20Muslimeen.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #6D4C41;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Majlis-e-Ittehadul%20Muslimeen.jpg?raw=true" width="70">
       <br/>
-      <strong style="color:#6D4C41;">AIMIM</strong>
+      <strong>AIMIM</strong>
       <br/>
       <sub>All India Majlis</sub>
       <br/>
@@ -427,10 +416,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiromani%20Akali%20Dal.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #1B5E20;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiromani%20Akali%20Dal.jpg?raw=true" width="70">
       <br/>
-      <strong style="color:#1B5E20;">SAD</strong>
+      <strong>SAD</strong>
       <br/>
       <sub>Shiromani Akali Dal</sub>
       <br/>
@@ -438,10 +427,10 @@
       <br/>
       <sub>Sikh Community</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Viduthalai%20Chiruthaigal%20Katchi.png?raw=true" width="70" style="border-radius:50%; border:3px solid #E91E63;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Viduthalai%20Chiruthaigal%20Katchi.png?raw=true" width="70">
       <br/>
-      <strong style="color:#E91E63;">VCK</strong>
+      <strong>VCK</strong>
       <br/>
       <sub>Viduthalai Chiruthaigal</sub>
       <br/>
@@ -449,10 +438,10 @@
       <br/>
       <sub>Dalit Representation</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Apna%20Dal%20(Sonelal).png?raw=true" width="70" style="border-radius:50%; border:3px solid #FF6F00;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Apna%20Dal%20(Sonelal).png?raw=true" width="70">
       <br/>
-      <strong style="color:#FF6F00;">ADSL</strong>
+      <strong>ADSL</strong>
       <br/>
       <sub>Apna Dal (Sonelal)</sub>
       <br/>
@@ -460,10 +449,10 @@
       <br/>
       <sub>OBC Representation</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #006400;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg?raw=true" width="70">
       <br/>
-      <strong style="color:#006400;">IUML</strong>
+      <strong>IUML</strong>
       <br/>
       <sub>Indian Union Muslim League</sub>
       <br/>
@@ -471,10 +460,10 @@
       <br/>
       <sub>Minority Rights</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Kerala%20Congress%20(M).png?raw=true" width="70" style="border-radius:50%; border:3px solid #B71C1C;">
+    <td align="center" width="140">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Kerala%20Congress%20(M).png?raw=true" width="70">
       <br/>
-      <strong style="color:#B71C1C;">KC(M)</strong>
+      <strong>KC(M)</strong>
       <br/>
       <sub>Kerala Congress (M)</sub>
       <br/>
@@ -506,7 +495,7 @@
 <table align="center" width="80%">
   <tr>
     <td align="center" colspan="2">
-      <h3 style="color:#FF9933;">🇮🇳 NATIONAL DEMOCRATIC ALLIANCE (NDA)</h3>
+      <h3>🇮🇳 NATIONAL DEMOCRATIC ALLIANCE (NDA)</h3>
       <img src="https://progress-bar.dev/55/?width=400&color=FF9933" />
       <br/>
       <sub>🔵 Led by BJP | 10 Parties | 55% Projected Strength</sub>
@@ -514,7 +503,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <h3 style="color:#138808;">🇮🇳 INDIAN ALLIANCE (INDIA)</h3>
+      <h3>🇮🇳 INDIAN ALLIANCE (INDIA)</h3>
       <img src="https://progress-bar.dev/45/?width=400&color=138808" />
       <br/>
       <sub>🟢 Led by INC | 15 Parties | 45% Projected Strength</sub>
@@ -552,37 +541,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=100&section=footer&gradientColors=FF9933,FFFFFF,138808" width="100%"/>
 </p>
-
-<!-- ============================================================ -->
-<!--              🎨 CSS ANIMATIONS (Embedded)                     -->
-<!-- ============================================================ -->
-
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  
-  @keyframes glow {
-    0% { filter: drop-shadow(0 0 5px rgba(255, 153, 51, 0.3)); }
-    50% { filter: drop-shadow(0 0 20px rgba(255, 153, 51, 0.6)); }
-    100% { filter: drop-shadow(0 0 5px rgba(255, 153, 51, 0.3)); }
-  }
-  
-  table td img {
-    animation: glow 3s infinite ease-in-out;
-  }
-  
-  .progress-bar {
-    animation: slideIn 1.5s ease-out;
-  }
-  
-  @keyframes slideIn {
-    from { width: 0%; }
-    to { width: 100%; }
-  }
-</style>
 
 <!-- ============================================================ -->
 <!--              📈 STATISTICS SUMMARY                            -->
