@@ -68,83 +68,539 @@
 <div align="center">
 
 
-# Major Political Parties of India (2026)
+<!-- ============================================================ -->
+<!--              🏛️ INDIAN POLITICAL PARTY DIRECTORY 2026          -->
+<!-- ============================================================ -->
 
-This document provides an overview of key national, regional, and state-level political parties in India. The parties are organized by their primary sphere of influence and current political standing.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF9933&center=true&vCenter=true&width=800&height=60&lines=🇮🇳+INDIAN+POLITICAL+PARTIES+2026;🗳️+General+Election+Directory;📊+National+%26+Regional+Forces" alt="Animated Header" />
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=100&section=header&gradientColors=FF9933,FFFFFF,138808&text=🇮🇳&fontSize=50" width="100%"/>
+</p>
 
-## A. National & Major Alliance Parties
+<!-- ============================================================ -->
+<!--              📊 LIVE POLITICAL METRICS                        -->
+<!-- ============================================================ -->
 
-| S.No. | Party Name (Acronym) | Logo | Type | Primary Influence/Notes |
-| :---: | :--- | :---: | :--- | :--- |
-| 1 | **Bharatiya Janata Party (BJP)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png?raw=true" width="60" style="border-radius:5px;"> | **National Party** | Currently the ruling party at the Centre, leading the National Democratic Alliance (NDA). |
-| 2 | **Indian National Congress (INC)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congresss.png?raw=true" width="60" style="border-radius:5px;"> | **National Party** | The main opposition party at the Centre, leading the INDIA (Indian National Developmental Inclusive Alliance) coalition. |
-| 3 | **Samajwadi Party (SP)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Dominant in Uttar Pradesh; a key constituent of the INDIA alliance. |
-| 4 | **All India Trinamool Congress (AITC)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png?raw=true" width="60" style="border-radius:5px;"> | **National Party** | Ruling party in West Bengal; a key constituent of the INDIA alliance. |
-| 5 | **Dravida Munnetra Kazhagam (DMK)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Ruling party in Tamil Nadu; a key constituent of the INDIA alliance. |
+<p align="center">
+  <img src="https://img.shields.io/badge/🏛️_Total_Parties_Listed-25-FF9933?style=for-the-badge&logo=india&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔵_NDA_Alliance-10_Parties-138808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟢_INDIA_Alliance-15_Parties-FF9933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_2026_Edition-Updated-FFFFFF?style=for-the-badge" />
+</p>
 
----
+<br/>
 
-## B. Key Regional Alliance Partners
+<!-- ============================================================ -->
+<!--              🔴 NATIONAL & MAJOR ALLIANCE PARTIES             -->
+<!-- ============================================================ -->
 
-| S.No. | Party Name (Acronym) | Logo | Type | Primary Influence/Notes |
-| :---: | :--- | :---: | :--- | :--- |
-| 6 | **Telugu Desam Party (TDP)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Ruling party in Andhra Pradesh; a key constituent of the NDA. |
-| 7 | **Janata Dal (United) (JDU)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Ruling party in Bihar; a key constituent of the NDA. |
-| 8 | **Shiv Sena (UBT)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Split from original Shiv Sena; key constituent of the INDIA alliance in Maharashtra. |
-| 9 | **NCP (Sharad Pawar) [NCP(SP)]** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Split from original NCP; key constituent of the INDIA alliance in Maharashtra. |
-| 10 | **Communist Party of India (Marxist) [CPI(M)]** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png?raw=true" width="60" style="border-radius:5px;"> | **National Party** | Ruling party in Kerala; key constituent of the INDIA alliance. |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1500&color=FF9933&center=true&vCenter=true&width=800&height=50&lines=⭐+NATIONAL+%26+MAJOR+ALLIANCE+PARTIES;🏛️+THE+BIG+FIVE" alt="Section Header" />
+</p>
 
----
+<br/>
 
-## C. State-Level Political Influencers
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png?raw=true" width="80" style="border-radius:50%; border:3px solid #FF9933; animation: pulse 2s infinite;">
+      <br/>
+      <strong style="color:#FF9933;">BJP</strong>
+      <br/>
+      <sub>Bharatiya Janata Party</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/NDA-FF9933?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <img src="https://progress-bar.dev/85/?width=100&color=FF9933" />
+      <br/>
+      <sub>Ruling Party</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congresss.png?raw=true" width="80" style="border-radius:50%; border:3px solid #138808; animation: pulse 2s infinite 0.5s;">
+      <br/>
+      <strong style="color:#138808;">INC</strong>
+      <br/>
+      <sub>Indian National Congress</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-138808?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <img src="https://progress-bar.dev/70/?width=100&color=138808" />
+      <br/>
+      <sub>Main Opposition</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png?raw=true" width="80" style="border-radius:50%; border:3px solid #E63946; animation: pulse 2s infinite 1s;">
+      <br/>
+      <strong style="color:#E63946;">SP</strong>
+      <br/>
+      <sub>Samajwadi Party</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-E63946?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <img src="https://progress-bar.dev/65/?width=100&color=E63946" />
+      <br/>
+      <sub>UP Dominant</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png?raw=true" width="80" style="border-radius:50%; border:3px solid #2196F3; animation: pulse 2s infinite 1.5s;">
+      <br/>
+      <strong style="color:#2196F3;">AITC</strong>
+      <br/>
+      <sub>Trinamool Congress</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-2196F3?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <img src="https://progress-bar.dev/60/?width=100&color=2196F3" />
+      <br/>
+      <sub>WB Ruling</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg?raw=true" width="80" style="border-radius:50%; border:3px solid #FF6B35; animation: pulse 2s infinite 2s;">
+      <br/>
+      <strong style="color:#FF6B35;">DMK</strong>
+      <br/>
+      <sub>Dravida Munnetra Kazhagam</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-FF6B35?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <img src="https://progress-bar.dev/75/?width=100&color=FF6B35" />
+      <br/>
+      <sub>TN Ruling</sub>
+    </td>
+  </tr>
+</table>
 
-| S.No. | Party Name (Acronym) | Logo | Type | Primary Influence/Notes |
-| :---: | :--- | :---: | :--- | :--- |
-| 11 | **Shiv Sena (SS)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Eknath Shinde faction; ruling alliance partner in Maharashtra with the NDA. |
-| 12 | **Nationalist Congress Party (NCP)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Nationalist%20Congress%20Party.jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Ajit Pawar faction; ruling alliance partner in Maharashtra with the NDA. |
-| 13 | **Rashtriya Janata Dal (RJD)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Janata%20Dal.png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Dominant in Bihar; key constituent of the INDIA alliance. |
-| 14 | **Communist Party of India (CPI)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India.png?raw=true" width="60" style="border-radius:5px;"> | **National Party** | Left-wing party; key constituent of the INDIA alliance. |
-| 15 | **Jharkhand Mukti Morcha (JMM)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Ruling party in Jharkhand; key constituent of the INDIA alliance. |
+<br/>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="60%"/>
+</p>
 
-## D. Emerging & Coalition Partners
+<br/>
 
-| S.No. | Party Name (Acronym) | Logo | Type | Primary Influence/Notes |
-| :---: | :--- | :---: | :--- | :--- |
-| 16 | **Aam Aadmi Party (AAP)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png?raw=true" width="60" style="border-radius:5px;"> | **National Party** | Ruling party in Delhi and Punjab; part of the INDIA alliance. |
-| 17 | **Lok Janshakti Party (Ram Vilas) [LJPRV]** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Key constituent of the NDA in Bihar. |
-| 18 | **YSR Congress Party (YSRCP)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Main opposition party in Andhra Pradesh. |
-| 19 | **Rashtriya Lok Dal (RLD)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Lok%20Dal.png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Key constituent of the NDA in Uttar Pradesh. |
-| 20 | **All India Majlis-e-Ittehadul Muslimeen (AIMIM)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Majlis-e-Ittehadul%20Muslimeen.jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Key player in Telangana; known for influence in Hyderabad. |
+<!-- ============================================================ -->
+<!--              🔵 KEY REGIONAL ALLIANCE PARTNERS                -->
+<!-- ============================================================ -->
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1500&color=DC143C&center=true&vCenter=true&width=800&height=50&lines=🤝+KEY+REGIONAL+ALLIANCE+PARTNERS;🌏+THE+COALITION+BULDERS" alt="Section Header" />
+</p>
 
-## E. Regional Specialists & Community Parties
+<br/>
 
-| S.No. | Party Name (Acronym) | Logo | Type | Primary Influence/Notes |
-| :---: | :--- | :---: | :--- | :--- |
-| 21 | **Shiromani Akali Dal (SAD)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiromani%20Akali%20Dal.jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Major party in Punjab; associated with Sikh political interests. |
-| 22 | **Viduthalai Chiruthaigal Katchi (VCK)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Viduthalai%20Chiruthaigal%20Katchi.png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Key Dalit party in Tamil Nadu; part of the INDIA alliance. |
-| 23 | **Apna Dal (Sonelal) [ADSL]** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Apna%20Dal%20(Sonelal).png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Key constituent of the NDA in Uttar Pradesh. |
-| 24 | **Indian Union Muslim League (IUML)** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Key party in Kerala; part of the INDIA alliance. |
-| 25 | **Kerala Congress (M) [KC(M)]** | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Kerala%20Congress%20(M).png?raw=true" width="60" style="border-radius:5px;"> | **State Party** | Key constituent in Kerala; part of the INDIA alliance. |
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png?raw=true" width="70" style="border-radius:50%; border:3px solid #FFD700;">
+      <br/>
+      <strong style="color:#FFD700;">TDP</strong>
+      <br/>
+      <sub>Telugu Desam Party</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/NDA-FFD700?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>AP Ruling</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png?raw=true" width="70" style="border-radius:50%; border:3px solid #4CAF50;">
+      <br/>
+      <strong style="color:#4CAF50;">JDU</strong>
+      <br/>
+      <sub>Janata Dal (United)</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/NDA-4CAF50?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Bihar Ruling</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #FF5722;">
+      <br/>
+      <strong style="color:#FF5722;">SS(UBT)</strong>
+      <br/>
+      <sub>Shiv Sena (UBT)</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-FF5722?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>MH Opposition</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #9C27B0;">
+      <br/>
+      <strong style="color:#9C27B0;">NCP(SP)</strong>
+      <br/>
+      <sub>NCP (Sharad Pawar)</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-9C27B0?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>MH Opposition</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png?raw=true" width="70" style="border-radius:50%; border:3px solid #F44336;">
+      <br/>
+      <strong style="color:#F44336;">CPI(M)</strong>
+      <br/>
+      <sub>Communist Party (Marxist)</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-F44336?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Kerala Ruling</sub>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## Quick Reference: Alliance Summary
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="60%"/>
+</p>
 
-| Alliance | Acronym | Leading Party | Key Constituents |
-| :--- | :---: | :--- | :--- |
-| **National Democratic Alliance** | NDA | **BJP** | TDP, JDU, SS (Shinde), NCP (Pawar), LJPRV, RLD, ADSL |
-| **Indian National Developmental Inclusive Alliance** | INDIA | **INC** | SP, AITC, DMK, SS(UBT), NCP(SP), CPI(M), RJD, CPI, JMM, AAP, VCK, IUML, KC(M) |
+<br/>
 
----
+<!-- ============================================================ -->
+<!--              🟢 STATE-LEVEL INFLUENCERS                       -->
+<!-- ============================================================ -->
 
-*Last Updated: June 2026*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1500&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=🏛️+STATE-LEVEL+INFLUENCERS;📌+REGIONAL+POWERHOUSES" alt="Section Header" />
+</p>
 
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png?raw=true" width="70" style="border-radius:50%; border:3px solid #FF9800;">
+      <br/>
+      <strong style="color:#FF9800;">SS</strong>
+      <br/>
+      <sub>Shiv Sena</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/NDA-FF9800?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>MH Ruling</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Nationalist%20Congress%20Party.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #3F51B5;">
+      <br/>
+      <strong style="color:#3F51B5;">NCP</strong>
+      <br/>
+      <sub>Nationalist Congress</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/NDA-3F51B5?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>MH Ruling</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Janata%20Dal.png?raw=true" width="70" style="border-radius:50%; border:3px solid #4CAF50;">
+      <br/>
+      <strong style="color:#4CAF50;">RJD</strong>
+      <br/>
+      <sub>Rashtriya Janata Dal</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-4CAF50?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Bihar Opposition</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India.png?raw=true" width="70" style="border-radius:50%; border:3px solid #F44336;">
+      <br/>
+      <strong style="color:#F44336;">CPI</strong>
+      <br/>
+      <sub>Communist Party</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-F44336?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Left Front</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png?raw=true" width="70" style="border-radius:50%; border:3px solid #8BC34A;">
+      <br/>
+      <strong style="color:#8BC34A;">JMM</strong>
+      <br/>
+      <sub>Jharkhand Mukti Morcha</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-8BC34A?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>JH Ruling</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="60%"/>
+</p>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--              🟣 EMERGING & COALITION PARTIES                  -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1500&color=FF1493&center=true&vCenter=true&width=800&height=50&lines=🌱+EMERGING+%26+COALITION+PARTNERS;🚀+THE+RISING+FORCES" alt="Section Header" />
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png?raw=true" width="70" style="border-radius:50%; border:3px solid #00BCD4;">
+      <br/>
+      <strong style="color:#00BCD4;">AAP</strong>
+      <br/>
+      <sub>Aam Aadmi Party</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-00BCD4?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Delhi/Punjab Ruling</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #FF9933;">
+      <br/>
+      <strong style="color:#FF9933;">LJPRV</strong>
+      <br/>
+      <sub>LJP (Ram Vilas)</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/NDA-FF9933?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Bihar Coalition</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #1565C0;">
+      <br/>
+      <strong style="color:#1565C0;">YSRCP</strong>
+      <br/>
+      <sub>YSR Congress</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/OTHER-1565C0?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>AP Opposition</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Lok%20Dal.png?raw=true" width="70" style="border-radius:50%; border:3px solid #43A047;">
+      <br/>
+      <strong style="color:#43A047;">RLD</strong>
+      <br/>
+      <sub>Rashtriya Lok Dal</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/NDA-43A047?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>UP Coalition</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Majlis-e-Ittehadul%20Muslimeen.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #6D4C41;">
+      <br/>
+      <strong style="color:#6D4C41;">AIMIM</strong>
+      <br/>
+      <sub>All India Majlis</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/OTHER-6D4C41?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Hyderabad Focus</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="60%"/>
+</p>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--              🟡 REGIONAL SPECIALISTS                          -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1500&color=DC143C&center=true&vCenter=true&width=800&height=50&lines=🎯+REGIONAL+SPECIALISTS;👥+COMMUNITY+REPRESENTATIVES" alt="Section Header" />
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiromani%20Akali%20Dal.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #1B5E20;">
+      <br/>
+      <strong style="color:#1B5E20;">SAD</strong>
+      <br/>
+      <sub>Shiromani Akali Dal</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/OTHER-1B5E20?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Sikh Community</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Viduthalai%20Chiruthaigal%20Katchi.png?raw=true" width="70" style="border-radius:50%; border:3px solid #E91E63;">
+      <br/>
+      <strong style="color:#E91E63;">VCK</strong>
+      <br/>
+      <sub>Viduthalai Chiruthaigal</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-E91E63?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Dalit Representation</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Apna%20Dal%20(Sonelal).png?raw=true" width="70" style="border-radius:50%; border:3px solid #FF6F00;">
+      <br/>
+      <strong style="color:#FF6F00;">ADSL</strong>
+      <br/>
+      <sub>Apna Dal (Sonelal)</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/NDA-FF6F00?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>OBC Representation</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg?raw=true" width="70" style="border-radius:50%; border:3px solid #006400;">
+      <br/>
+      <strong style="color:#006400;">IUML</strong>
+      <br/>
+      <sub>Indian Union Muslim League</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-006400?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Minority Rights</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Kerala%20Congress%20(M).png?raw=true" width="70" style="border-radius:50%; border:3px solid #B71C1C;">
+      <br/>
+      <strong style="color:#B71C1C;">KC(M)</strong>
+      <br/>
+      <sub>Kerala Congress (M)</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/INDIA-B71C1C?style=flat-square&labelColor=1a1a2e" />
+      <br/>
+      <sub>Kerala Coalition</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="60%"/>
+</p>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--              📊 ALLIANCE POWER METER                          -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=2000&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=⚡+ALLIANCE+POWER+METER+2026;📊+COALITION+STRENGTH+ANALYSIS" alt="Alliance Meter" />
+</p>
+
+<br/>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="center" colspan="2">
+      <h3 style="color:#FF9933;">🇮🇳 NATIONAL DEMOCRATIC ALLIANCE (NDA)</h3>
+      <img src="https://progress-bar.dev/55/?width=400&color=FF9933" />
+      <br/>
+      <sub>🔵 Led by BJP | 10 Parties | 55% Projected Strength</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3 style="color:#138808;">🇮🇳 INDIAN ALLIANCE (INDIA)</h3>
+      <img src="https://progress-bar.dev/45/?width=400&color=138808" />
+      <br/>
+      <sub>🟢 Led by INC | 15 Parties | 45% Projected Strength</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--              🗳️ QUICK REFERENCE                               -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1500&color=FF9933&center=true&vCenter=true&width=800&height=50&lines=📋+QUICK+REFERENCE+SUMMARY;🔍+AT+A+GLANCE" alt="Quick Reference" />
+</p>
+
+<br/>
+
+| **Alliance** | **Acronym** | **Leading Party** | **Total Parties** | **Key Constituents** |
+| :--- | :---: | :--- | :---: | :--- |
+| **National Democratic Alliance** | **NDA** | **BJP** | **10** | TDP, JDU, SS, NCP, LJPRV, RLD, ADSL |
+| **Indian National Developmental Inclusive Alliance** | **INDIA** | **INC** | **15** | SP, AITC, DMK, SS(UBT), NCP(SP), CPI(M), RJD, CPI, JMM, AAP, VCK, IUML, KC(M) |
+
+<br/>
+
+<!-- ============================================================ -->
+<!--              🎬 ANIMATED FOOTER                               -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=138808&center=true&vCenter=true&width=600&height=40&lines=🗳️+Go+Cast+Your+Vote!;🇮🇳+Jai+Hind!;📅+Updated:+June+2026" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=100&section=footer&gradientColors=FF9933,FFFFFF,138808" width="100%"/>
+</p>
+
+<!-- ============================================================ -->
+<!--              🎨 CSS ANIMATIONS (Embedded)                     -->
+<!-- ============================================================ -->
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+  
+  @keyframes glow {
+    0% { filter: drop-shadow(0 0 5px rgba(255, 153, 51, 0.3)); }
+    50% { filter: drop-shadow(0 0 20px rgba(255, 153, 51, 0.6)); }
+    100% { filter: drop-shadow(0 0 5px rgba(255, 153, 51, 0.3)); }
+  }
+  
+  table td img {
+    animation: glow 3s infinite ease-in-out;
+  }
+  
+  .progress-bar {
+    animation: slideIn 1.5s ease-out;
+  }
+  
+  @keyframes slideIn {
+    from { width: 0%; }
+    to { width: 100%; }
+  }
+</style>
+
+<!-- ============================================================ -->
+<!--              📈 STATISTICS SUMMARY                            -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <b>🏛️ Total Parties Listed:</b> 25
+  &nbsp;|&nbsp;
+  <b>🔵 NDA Alliance:</b> 10 Parties
+  &nbsp;|&nbsp;
+  <b>🟢 INDIA Alliance:</b> 15 Parties
+  &nbsp;|&nbsp;
+  <b>📅 Last Updated:</b> June 2026
+</p>
+
+<p align="center">
+  <sub>🇮🇳 <i>India's vibrant democracy - 25 parties representing diverse voices</i> 🇮🇳</sub>
+</p>
 
 
 </div>
