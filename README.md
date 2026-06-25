@@ -1,11 +1,24 @@
-# Lok Sabha Election 2024 — Data Analysis
+<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=180&section=header&gradientColors=FF9933,FFFFFF,138808&text=Lok%20Sabha%202024&fontSize=48&fontColor=1a1a2e&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=900&height=60&lines=18th+LOK+SABHA+%E2%80%94+CONSTITUENCY+DATA+ANALYSIS;543+SEATS+%7C+ALL+RECOGNIZED+PARTIES;PANDAS+%7C+NUMPY+%7C+MATPLOTLIB+%7C+SEABORN" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+
+<img src="https://img.shields.io/badge/_Constituencies-543-FF9933?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/_Election_Year-2024-138808?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/_Lok_Sabha-18th-navy?style=flat-square&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/_Status-Government_Formed-gold?style=flat-square&labelColor=1a1a2e"/>
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="100%"/>
+<br/>
 
 A constituency-level data analysis of the 2024 Indian General Election, covering all 543 Lok Sabha seats. The project examines party performance, victory margins, candidate competitiveness, and regional voting patterns using Python's standard data science stack.
 
@@ -16,6 +29,7 @@ A constituency-level data analysis of the 2024 Indian General Election, covering
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Dataset](#dataset)
+- [Party Directory — 18th Lok Sabha](#party-directory--18th-lok-sabha)
 - [Methodology](#methodology)
 - [Analysis & Visualizations](#analysis--visualizations)
   - [Party-Wise Seat Distribution](#party-wise-seat-distribution)
@@ -87,6 +101,96 @@ The goal is to provide a clear, data-driven view of constituency outcomes withou
 | Coverage | All states and union territories |
 
 > Source the raw data file path/link here, e.g. `data/lok_sabha_2024_results.csv`, and note its provenance (e.g. Election Commission of India) so results are reproducible and verifiable.
+
+---
+
+## Party Directory — 18th Lok Sabha
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=2000&color=FF9933&center=true&vCenter=true&width=900&height=60&lines=🇮🇳+ALL+PARTIES+WITH+SEATS+IN+THE+18th+LOK+SABHA;543+SEATS+%E2%80%A2+RESULTS+DECLARED+4+JUNE+2024" alt="Party Directory Header"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NDA-293_seats-FF9933?style=for-the-badge&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/INDIA-234_seats-138808?style=for-the-badge&labelColor=1a1a2e"/>&nbsp;<img src="https://img.shields.io/badge/Others_%2B_Independents-16_seats-808080?style=for-the-badge&labelColor=1a1a2e"/>
+
+</div>
+
+Seat figures below reflect results as declared by the Election Commission of India on 4 June 2024 for the 543-seat 18th Lok Sabha. Alliance groupings (NDA / INDIA / Other) are as constituted at the time of the election.
+
+<br/>
+
+### 🟠 National Democratic Alliance (NDA) — 293 seats
+
+<div align="center">
+
+| Party | Acronym | Seats Won | State Base |
+|:---|:---:|:---:|:---|
+| 🟧 Bharatiya Janata Party | **BJP** | 240 | Pan-India |
+| 🟨 Telugu Desam Party | **TDP** | 16 | Andhra Pradesh |
+| 🟩 Janata Dal (United) | **JD(U)** | 12 | Bihar |
+| 🟥 Shiv Sena | **SHS** | 7 | Maharashtra |
+| 🟪 Lok Janshakti Party (Ram Vilas) | **LJP(RV)** | 5 | Bihar |
+| 🟦 Rashtriya Lok Dal | **RLD** | 2 | Uttar Pradesh |
+| 🟫 Janata Dal (Secular) | **JD(S)** | 2 | Karnataka |
+| ⬛ Jana Sena Party | **JnP** | 2 | Andhra Pradesh |
+| 🟧 Apna Dal (Sonelal) | **AD(S)** | 1 | Uttar Pradesh |
+| 🟩 Asom Gana Parishad | **AGP** | 1 | Assam |
+| ⬜ Other NDA constituents & allies | — | 5 | Various |
+
+</div>
+
+<br/>
+
+### 🟢 Indian National Developmental Inclusive Alliance (INDIA) — 234 seats
+
+<div align="center">
+
+| Party | Acronym | Seats Won | State Base |
+|:---|:---:|:---:|:---|
+| 🟩 Indian National Congress | **INC** | 99 | Pan-India |
+| 🟥 Samajwadi Party | **SP** | 37 | Uttar Pradesh |
+| 🔵 All India Trinamool Congress | **AITC** | 29 | West Bengal |
+| 🟧 Dravida Munnetra Kazhagam | **DMK** | 22 | Tamil Nadu |
+| 🟪 Shiv Sena (Uddhav Balasaheb Thackeray) | **SS(UBT)** | 9 | Maharashtra |
+| 🟫 Nationalist Congress Party (Sharadchandra Pawar) | **NCP(SP)** | 8 | Maharashtra |
+| 🟥 Rashtriya Janata Dal | **RJD** | 4 | Bihar |
+| 🟩 Communist Party of India (Marxist) | **CPI(M)** | 4 | Kerala |
+| 🟢 Indian Union Muslim League | **IUML** | 3 | Kerala |
+| 🔵 Aam Aadmi Party | **AAP** | 3 | Delhi / Punjab |
+| 🟤 Jharkhand Mukti Morcha | **JMM** | 3 | Jharkhand |
+| ⬛ Viduthalai Chiruthaigal Katchi | **VCK** | 2 | Tamil Nadu |
+| 🟥 Communist Party of India | **CPI** | 2 | Kerala / Tamil Nadu |
+| 🟩 Communist Party of India (Marxist–Leninist) Liberation | **CPI(ML)L** | 2 | Bihar |
+| ⬜ Other INDIA constituents | — | 7 | Various |
+
+</div>
+
+<br/>
+
+### ⚪ Other Parties & Independents — 16 seats
+
+<div align="center">
+
+| Party | Acronym | Seats Won | State Base |
+|:---|:---:|:---:|:---|
+| 🔵 YSR Congress Party | **YSRCP** | 4 | Andhra Pradesh |
+| ⬛ All India Majlis-e-Ittehadul Muslimeen | **AIMIM** | 1 | Telangana |
+| 🟢 Shiromani Akali Dal | **SAD** | 1 | Punjab |
+| 🟡 Sikkim Krantikari Morcha | **SKM** | 1 | Sikkim |
+| 🟥 Zoram People's Movement | **ZPM** | 1 | Mizoram |
+| 🟦 Jammu & Kashmir National Conference | **JKNC** | 2 | Jammu & Kashmir |
+| ⬜ Independents | — | 7 | Various |
+
+</div>
+
+> Seat counts for smaller and state-specific parties are summarized; verify exact figures against the [ECI's official statistical reports](https://www.eci.gov.in/general-election-to-loksabha-2024-statistical-reports) before publishing, as post-result realignments and bye-elections can shift individual party tallies over the life of a Lok Sabha.
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,1,2&gradientColors=FF9933,FFFFFF,138808" width="100%"/>
+<br/>
 
 ## Methodology
 
@@ -221,5 +325,9 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-<sub>Data-driven exploration of India's 2024 parliamentary election results.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=180&section=footer&gradientColors=FF9933,FFFFFF,138808&text=Jai%20Hind&fontSize=42&fontColor=1a1a2e&animation=twinkling" width="100%"/>
+
+<sub>Data-driven exploration of India's 2024 parliamentary election results 🇮🇳</sub>
+
 </div>
