@@ -126,7 +126,7 @@ Party symbols as recognized by the Election Commission of India for the 18th Lok
 
 <div align="center">
 
-| Index | Party | Logo file |
+| Index | Party | Party Symbol |
 |:---:|:---|:---|
 | 1. | Bharatiya Janata Party (BJP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png" width="32"/> |
 | <img src="images/parties/inc.png" width="32"/> | Indian National Congress (INC) | `images/parties/inc.png` |
