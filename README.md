@@ -120,25 +120,27 @@ The goal is to provide a clear, data-driven view of constituency outcomes withou
 
 Seat figures below reflect results as declared by the Election Commission of India on 4 June 2024 for the 543-seat 18th Lok Sabha. Alliance groupings (NDA / INDIA / Other) are as constituted at the time of the election.
 
+> **Adding logos:** drop each party's official logo image (PNG/SVG, ideally square, ~40×40px) into `images/parties/` using the filename shown in the `Logo file` column below, then it will render automatically in the `Logo` column. Official party symbols/emblems are trademarked by the respective parties and the Election Commission of India — source them from each party's official website or the [ECI's recognized symbols list](https://www.eci.gov.in/) and use in accordance with applicable trademark/usage guidelines. This repo does not ship third-party logo files.
+
 <br/>
 
 ### 🟠 National Democratic Alliance (NDA) — 293 seats
 
 <div align="center">
 
-| Party | Acronym | Seats Won | State Base |
-|:---|:---:|:---:|:---|
-| 🟧 Bharatiya Janata Party | **BJP** | 240 | Pan-India |
-| 🟨 Telugu Desam Party | **TDP** | 16 | Andhra Pradesh |
-| 🟩 Janata Dal (United) | **JD(U)** | 12 | Bihar |
-| 🟥 Shiv Sena | **SHS** | 7 | Maharashtra |
-| 🟪 Lok Janshakti Party (Ram Vilas) | **LJP(RV)** | 5 | Bihar |
-| 🟦 Rashtriya Lok Dal | **RLD** | 2 | Uttar Pradesh |
-| 🟫 Janata Dal (Secular) | **JD(S)** | 2 | Karnataka |
-| ⬛ Jana Sena Party | **JnP** | 2 | Andhra Pradesh |
-| 🟧 Apna Dal (Sonelal) | **AD(S)** | 1 | Uttar Pradesh |
-| 🟩 Asom Gana Parishad | **AGP** | 1 | Assam |
-| ⬜ Other NDA constituents & allies | — | 5 | Various |
+| Logo | Party | Acronym | Seats Won | State Base | Logo file |
+|:---:|:---|:---:|:---:|:---|:---|
+| <img src="images/parties/bjp.png" width="32"/> | Bharatiya Janata Party | **BJP** | 240 | Pan-India | `images/parties/bjp.png` |
+| <img src="images/parties/tdp.png" width="32"/> | Telugu Desam Party | **TDP** | 16 | Andhra Pradesh | `images/parties/tdp.png` |
+| <img src="images/parties/jdu.png" width="32"/> | Janata Dal (United) | **JD(U)** | 12 | Bihar | `images/parties/jdu.png` |
+| <img src="images/parties/shs.png" width="32"/> | Shiv Sena | **SHS** | 7 | Maharashtra | `images/parties/shs.png` |
+| <img src="images/parties/ljprv.png" width="32"/> | Lok Janshakti Party (Ram Vilas) | **LJP(RV)** | 5 | Bihar | `images/parties/ljprv.png` |
+| <img src="images/parties/rld.png" width="32"/> | Rashtriya Lok Dal | **RLD** | 2 | Uttar Pradesh | `images/parties/rld.png` |
+| <img src="images/parties/jds.png" width="32"/> | Janata Dal (Secular) | **JD(S)** | 2 | Karnataka | `images/parties/jds.png` |
+| <img src="images/parties/jnp.png" width="32"/> | Jana Sena Party | **JnP** | 2 | Andhra Pradesh | `images/parties/jnp.png` |
+| <img src="images/parties/ads.png" width="32"/> | Apna Dal (Sonelal) | **AD(S)** | 1 | Uttar Pradesh | `images/parties/ads.png` |
+| <img src="images/parties/agp.png" width="32"/> | Asom Gana Parishad | **AGP** | 1 | Assam | `images/parties/agp.png` |
+| — | Other NDA constituents & allies | — | 5 | Various | — |
 
 </div>
 
@@ -148,23 +150,23 @@ Seat figures below reflect results as declared by the Election Commission of Ind
 
 <div align="center">
 
-| Party | Acronym | Seats Won | State Base |
-|:---|:---:|:---:|:---|
-| 🟩 Indian National Congress | **INC** | 99 | Pan-India |
-| 🟥 Samajwadi Party | **SP** | 37 | Uttar Pradesh |
-| 🔵 All India Trinamool Congress | **AITC** | 29 | West Bengal |
-| 🟧 Dravida Munnetra Kazhagam | **DMK** | 22 | Tamil Nadu |
-| 🟪 Shiv Sena (Uddhav Balasaheb Thackeray) | **SS(UBT)** | 9 | Maharashtra |
-| 🟫 Nationalist Congress Party (Sharadchandra Pawar) | **NCP(SP)** | 8 | Maharashtra |
-| 🟥 Rashtriya Janata Dal | **RJD** | 4 | Bihar |
-| 🟩 Communist Party of India (Marxist) | **CPI(M)** | 4 | Kerala |
-| 🟢 Indian Union Muslim League | **IUML** | 3 | Kerala |
-| 🔵 Aam Aadmi Party | **AAP** | 3 | Delhi / Punjab |
-| 🟤 Jharkhand Mukti Morcha | **JMM** | 3 | Jharkhand |
-| ⬛ Viduthalai Chiruthaigal Katchi | **VCK** | 2 | Tamil Nadu |
-| 🟥 Communist Party of India | **CPI** | 2 | Kerala / Tamil Nadu |
-| 🟩 Communist Party of India (Marxist–Leninist) Liberation | **CPI(ML)L** | 2 | Bihar |
-| ⬜ Other INDIA constituents | — | 7 | Various |
+| Logo | Party | Acronym | Seats Won | State Base | Logo file |
+|:---:|:---|:---:|:---:|:---|:---|
+| <img src="images/parties/inc.png" width="32"/> | Indian National Congress | **INC** | 99 | Pan-India | `images/parties/inc.png` |
+| <img src="images/parties/sp.png" width="32"/> | Samajwadi Party | **SP** | 37 | Uttar Pradesh | `images/parties/sp.png` |
+| <img src="images/parties/aitc.png" width="32"/> | All India Trinamool Congress | **AITC** | 29 | West Bengal | `images/parties/aitc.png` |
+| <img src="images/parties/dmk.png" width="32"/> | Dravida Munnetra Kazhagam | **DMK** | 22 | Tamil Nadu | `images/parties/dmk.png` |
+| <img src="images/parties/ssubt.png" width="32"/> | Shiv Sena (Uddhav Balasaheb Thackeray) | **SS(UBT)** | 9 | Maharashtra | `images/parties/ssubt.png` |
+| <img src="images/parties/ncpsp.png" width="32"/> | Nationalist Congress Party (Sharadchandra Pawar) | **NCP(SP)** | 8 | Maharashtra | `images/parties/ncpsp.png` |
+| <img src="images/parties/rjd.png" width="32"/> | Rashtriya Janata Dal | **RJD** | 4 | Bihar | `images/parties/rjd.png` |
+| <img src="images/parties/cpim.png" width="32"/> | Communist Party of India (Marxist) | **CPI(M)** | 4 | Kerala | `images/parties/cpim.png` |
+| <img src="images/parties/iuml.png" width="32"/> | Indian Union Muslim League | **IUML** | 3 | Kerala | `images/parties/iuml.png` |
+| <img src="images/parties/aap.png" width="32"/> | Aam Aadmi Party | **AAP** | 3 | Delhi / Punjab | `images/parties/aap.png` |
+| <img src="images/parties/jmm.png" width="32"/> | Jharkhand Mukti Morcha | **JMM** | 3 | Jharkhand | `images/parties/jmm.png` |
+| <img src="images/parties/vck.png" width="32"/> | Viduthalai Chiruthaigal Katchi | **VCK** | 2 | Tamil Nadu | `images/parties/vck.png` |
+| <img src="images/parties/cpi.png" width="32"/> | Communist Party of India | **CPI** | 2 | Kerala / Tamil Nadu | `images/parties/cpi.png` |
+| <img src="images/parties/cpiml.png" width="32"/> | Communist Party of India (Marxist–Leninist) Liberation | **CPI(ML)L** | 2 | Bihar | `images/parties/cpiml.png` |
+| — | Other INDIA constituents | — | 7 | Various | — |
 
 </div>
 
@@ -174,15 +176,15 @@ Seat figures below reflect results as declared by the Election Commission of Ind
 
 <div align="center">
 
-| Party | Acronym | Seats Won | State Base |
-|:---|:---:|:---:|:---|
-| 🔵 YSR Congress Party | **YSRCP** | 4 | Andhra Pradesh |
-| ⬛ All India Majlis-e-Ittehadul Muslimeen | **AIMIM** | 1 | Telangana |
-| 🟢 Shiromani Akali Dal | **SAD** | 1 | Punjab |
-| 🟡 Sikkim Krantikari Morcha | **SKM** | 1 | Sikkim |
-| 🟥 Zoram People's Movement | **ZPM** | 1 | Mizoram |
-| 🟦 Jammu & Kashmir National Conference | **JKNC** | 2 | Jammu & Kashmir |
-| ⬜ Independents | — | 7 | Various |
+| Logo | Party | Acronym | Seats Won | State Base | Logo file |
+|:---:|:---|:---:|:---:|:---|:---|
+| <img src="images/parties/ysrcp.png" width="32"/> | YSR Congress Party | **YSRCP** | 4 | Andhra Pradesh | `images/parties/ysrcp.png` |
+| <img src="images/parties/aimim.png" width="32"/> | All India Majlis-e-Ittehadul Muslimeen | **AIMIM** | 1 | Telangana | `images/parties/aimim.png` |
+| <img src="images/parties/sad.png" width="32"/> | Shiromani Akali Dal | **SAD** | 1 | Punjab | `images/parties/sad.png` |
+| <img src="images/parties/skm.png" width="32"/> | Sikkim Krantikari Morcha | **SKM** | 1 | Sikkim | `images/parties/skm.png` |
+| <img src="images/parties/zpm.png" width="32"/> | Zoram People's Movement | **ZPM** | 1 | Mizoram | `images/parties/zpm.png` |
+| <img src="images/parties/jknc.png" width="32"/> | Jammu & Kashmir National Conference | **JKNC** | 2 | Jammu & Kashmir | `images/parties/jknc.png` |
+| — | Independents | — | 7 | Various | — |
 
 </div>
 
@@ -275,6 +277,10 @@ Election-Result-Analysis/
 ├── notebooks/
 │   └── election_analysis.ipynb
 ├── images/
+│   ├── parties/
+│   │   ├── bjp.png
+│   │   ├── inc.png
+│   │   └── ... (one file per party, see Logo file column above)
 │   ├── seat.png
 │   ├── votes.png
 │   ├── compare.png
