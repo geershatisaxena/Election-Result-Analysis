@@ -128,7 +128,7 @@ Party symbols as recognized by the Election Commission of India for the 18th Lok
 
 | Logo | Party | Logo file |
 |:---:|:---|:---|
-| <img src="images/parties/bjp.png" width="32"/> | Bharatiya Janata Party (BJP) | `images/parties/bjp.png` |
+| <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png" width="32"/> | Bharatiya Janata Party (BJP) | `images/parties/bjp.png` |
 | <img src="images/parties/inc.png" width="32"/> | Indian National Congress (INC) | `images/parties/inc.png` |
 | <img src="images/parties/sp.png" width="32"/> | Samajwadi Party (SP) | `images/parties/sp.png` |
 | <img src="images/parties/aitc.png" width="32"/> | All India Trinamool Congress (AITC) | `images/parties/aitc.png` |
