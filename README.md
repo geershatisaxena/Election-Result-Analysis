@@ -133,7 +133,7 @@ Party symbols as recognized by the Election Commission of India for the 18th Lok
 | 3. | Samajwadi Party (SP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png" width="32"/> |
 | 4. | All India Trinamool Congress (AITC) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png" width="32"/> |
 | 5. | Dravida Munnetra Kazhagam (DMK) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg" width="32"/> |
-| <img src="images/parties/tdp.png" width="32"/> | Telugu Desam Party (TDP) | `images/parties/tdp.png` |
+| 6. | Telugu Desam Party (TDP) | <img src="images/parties/tdp.png" width="32"/> |
 | <img src="images/parties/jdu.png" width="32"/> | Janata Dal (United) (JD(U)) | `images/parties/jdu.png` |
 | <img src="images/parties/ssubt.png" width="32"/> | Shiv Sena (Uddhav Balasaheb Thackeray) (SS(UBT)) | `images/parties/ssubt.png` |
 | <img src="images/parties/shs.png" width="32"/> | Shiv Sena (SHS) | `images/parties/shs.png` |
