@@ -135,7 +135,7 @@ Party symbols as recognized by the Election Commission of India for the 18th Lok
 | 5. | Dravida Munnetra Kazhagam (DMK) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg" width="32"/> |
 | 6. | Telugu Desam Party (TDP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png" width="32"/> |
 | 7. | Janata Dal (United) (JD(U)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png" width="32"/> |
-| <img src="images/parties/ssubt.png" width="32"/> | Shiv Sena (Uddhav Balasaheb Thackeray) (SS(UBT)) | `images/parties/ssubt.png` |
+| 8. | Shiv Sena (Uddhav Balasaheb Thackeray) (SS(UBT)) | `images/parties/ssubt.png` |
 | <img src="images/parties/shs.png" width="32"/> | Shiv Sena (SHS) | `images/parties/shs.png` |
 | <img src="images/parties/ncpsp.png" width="32"/> | Nationalist Congress Party (Sharadchandra Pawar) (NCP(SP)) | `images/parties/ncpsp.png` |
 | <img src="images/parties/ljprv.png" width="32"/> | Lok Janshakti Party (Ram Vilas) (LJP(RV)) | `images/parties/ljprv.png` |
