@@ -120,7 +120,7 @@ The goal is to provide a clear, data-driven view of constituency outcomes withou
 
 Party symbols as recognized by the Election Commission of India for the 18th Lok Sabha.
 
-> **Adding logos:** drop each party's official logo image (PNG/SVG, ideally square, ~40×40px) into `images/parties/` using the filename shown in the `Logo file` column below, then it will render automatically in the `Logo` column. Official party symbols/emblems are trademarked by the respective parties and the Election Commission of India — source them from each party's official website or the [ECI's recognized symbols list](https://www.eci.gov.in/) and use in accordance with applicable trademark/usage guidelines. This repo does not ship third-party logo files.
+> **Adding logos:** drop each party's official logo image (PNG/SVG, ideally square, ~40×40px) into `images/parties/` using the filename shown in the `Logo file` column below, then it will render automatically in the `Logo` column. Official party symbols/emblems are trademarked by the respective parties and the Election Commission of India — source them from each party's official website or the [ECI's recognized symbols list](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartSeatShare%20(1).png) and use in accordance with applicable trademark/usage guidelines. This repo does not ship third-party logo files.
 
 <br/>
 
