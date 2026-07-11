@@ -126,38 +126,17 @@ Party symbols as recognized by the Election Commission of India for the 18th Lok
 
 <div align="center">
 
-| Index | Party | Party Symbol |
-|:---:|:---|:---|
-| 1. | Bharatiya Janata Party (BJP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/bjp.png" width="32"/> |
-| 2. | Indian National Congress (INC) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/congresss.png" width="32"/> |
-| 3. | Samajwadi Party (SP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/samajwadi.png" width="32"/> |
-| 4. | All India Trinamool Congress (AITC) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/All%20India%20Trinamool%20Congress.png" width="32"/> |
-| 5. | Dravida Munnetra Kazhagam (DMK) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Dravida%20Munnetra%20Kazhagam.jpg" width="32"/> |
-| 6. | Telugu Desam Party (TDP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png" width="32"/> |
-| 7. | Janata Dal (United) (JD(U)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png" width="32"/> |
-| 8. | Shiv Sena (Uddhav Balasaheb Thackeray) (SS(UBT)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg" width = "32"/>|
-| 9. | Shiv Sena (SHS) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png" width="32"/> |
-| 10.| Nationalist Congress Party (Sharadchandra Pawar) (NCP(SP)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg" width="32"/> |
-| 11.| Lok Janshakti Party (Ram Vilas) (LJP(RV)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg" width="32"/> |
-| 12.| YSR Congress Party (YSRCP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg" width="32"/> |
-| 13.| Rashtriya Janata Dal (RJD) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Rashtriya%20Janata%20Dal.png" width="32"/> |
-| 14.| Communist Party of India (Marxist) (CPI(M)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png" width="32"/> |
-| 15. | Aam Aadmi Party (AAP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png" width="32"/> |
-| 16. | Indian Union Muslim League (IUML) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg" width="32"/> |
-| 17. | Jharkhand Mukti Morcha (JMM) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png" width="32"/> |
-| <img src="images/parties/rld.png" width="32"/> | Rashtriya Lok Dal (RLD) | `images/parties/rld.png` |
-| <img src="images/parties/jds.png" width="32"/> | Janata Dal (Secular) (JD(S)) | `images/parties/jds.png` |
-| <img src="images/parties/jnp.png" width="32"/> | Jana Sena Party (JnP) | `images/parties/jnp.png` |
-| <img src="images/parties/vck.png" width="32"/> | Viduthalai Chiruthaigal Katchi (VCK) | `images/parties/vck.png` |
-| <img src="images/parties/cpi.png" width="32"/> | Communist Party of India (CPI) | `images/parties/cpi.png` |
-| <img src="images/parties/cpiml.png" width="32"/> | Communist Party of India (Marxist–Leninist) Liberation (CPI(ML)L) | `images/parties/cpiml.png` |
-| <img src="images/parties/ads.png" width="32"/> | Apna Dal (Sonelal) (AD(S)) | `images/parties/ads.png` |
-| <img src="images/parties/agp.png" width="32"/> | Asom Gana Parishad (AGP) | `images/parties/agp.png` |
-| <img src="images/parties/aimim.png" width="32"/> | All India Majlis-e-Ittehadul Muslimeen (AIMIM) | `images/parties/aimim.png` |
-| <img src="images/parties/sad.png" width="32"/> | Shiromani Akali Dal (SAD) | `images/parties/sad.png` |
-| <img src="images/parties/skm.png" width="32"/> | Sikkim Krantikari Morcha (SKM) | `images/parties/skm.png` |
-| <img src="images/parties/zpm.png" width="32"/> | Zoram People's Movement (ZPM) | `images/parties/zpm.png` |
-| <img src="images/parties/jknc.png" width="32"/> | Jammu & Kashmir National Conference (JKNC) | `images/parties/jknc.png` |
+| Logo | Party Name | MPs | Logo | Party Name | MPs | Logo | Party Name | MPs | Logo | Party Name | MPs | Logo | Party Name | MPs |
+|------|------------|-----|------|------------|-----|------|------------|-----|------|------------|-----|------|------------|-----|
+| <img src="images/parties/bjp.png" width="32"/> | Bharatiya Janata Party (BJP) | 240 | <img src="images/parties/inc.png" width="32"/> | Indian National Congress (INC) | 99 | <img src="images/parties/sp.png" width="32"/> | Samajwadi Party (SP) | 37 | <img src="images/parties/aitc.png" width="32"/> | All India Trinamool Congress (AITC) | 29 | <img src="images/parties/dmk.png" width="32"/> | Dravida Munnetra Kazhagam (DMK) | 22 |
+| <img src="images/parties/tdp.png" width="32"/> | Telugu Desam Party (TDP) | 16 | <img src="images/parties/jdu.png" width="32"/> | Janata Dal (United) (JD(U)) | 12 | <img src="images/parties/ssubt.png" width="32"/> | Shiv Sena (UBT) | 9 | <img src="images/parties/ncpsp.png" width="32"/> | NCP (Sharadchandra Pawar) | 8 | <img src="images/parties/shs.png" width="32"/> | Shiv Sena (SHS) | 7 |
+| <img src="images/parties/ljprv.png" width="32"/> | Lok Janshakti Party (Ram Vilas) | 5 | <img src="images/parties/ysrcp.png" width="32"/> | YSR Congress Party (YSRCP) | 4 | <img src="images/parties/rjd.png" width="32"/> | Rashtriya Janata Dal (RJD) | 4 | <img src="images/parties/cpim.png" width="32"/> | Communist Party of India (Marxist) (CPI(M)) | 4 | <img src="images/parties/aap.png" width="32"/> | Aam Aadmi Party (AAP) | 3 |
+| <img src="images/parties/iuml.png" width="32"/> | Indian Union Muslim League (IUML) | 3 | <img src="images/parties/jmm.png" width="32"/> | Jharkhand Mukti Morcha (JMM) | 3 | <img src="images/parties/rld.png" width="32"/> | Rashtriya Lok Dal (RLD) | 2 | <img src="images/parties/jds.png" width="32"/> | Janata Dal (Secular) (JD(S)) | 2 | <img src="images/parties/jsp.png" width="32"/> | Jana Sena Party (JSP) | 2 |
+| <img src="images/parties/vck.png" width="32"/> | Viduthalai Chiruthaigal Katchi (VCK) | 2 | <img src="images/parties/cpi.png" width="32"/> | Communist Party of India (CPI) | 2 | <img src="images/parties/cpiml.png" width="32"/> | CPI (Marxist–Leninist) Liberation | 2 | <img src="images/parties/jknc.png" width="32"/> | Jammu & Kashmir National Conference (JKNC) | 2 | <img src="images/parties/agp.png" width="32"/> | Asom Gana Parishad (AGP) | 1 |
+| <img src="images/parties/ads.png" width="32"/> | Apna Dal (Sonelal) (AD(S)) | 1 | <img src="images/parties/aimim.png" width="32"/> | AIMIM | 1 | <img src="images/parties/sad.png" width="32"/> | Shiromani Akali Dal (SAD) | 1 | <img src="images/parties/skm.png" width="32"/> | Sikkim Krantikari Morcha (SKM) | 1 | <img src="images/parties/zpm.png" width="32"/> | Zoram People's Movement (ZPM) | 1 |
+| <img src="images/parties/uppl.png" width="32"/> | United People's Party Liberal (UPPL) | 1 | <img src="images/parties/hams.png" width="32"/> | Hindustani Awam Morcha (Secular) | 1 | <img src="images/parties/kcm.png" width="32"/> | Kerala Congress (M) | 1 | <img src="images/parties/rsp.png" width="32"/> | Revolutionary Socialist Party (RSP) | 1 | <img src="images/parties/ncp.png" width="32"/> | Nationalist Congress Party (NCP) | 1 |
+| <img src="images/parties/votpp.png" width="32"/> | Voice of the People Party (VOTPP) | 1 | <img src="images/parties/rlp.png" width="32"/> | Rashtriya Loktantrik Party (RLP) | 1 | <img src="images/parties/bap.png" width="32"/> | Bharat Adivasi Party (BAP) | 1 | <img src="images/parties/mdmk.png" width="32"/> | Marumalarchi Dravida Munnetra Kazhagam (MDMK) | 1 | <img src="images/parties/aspkr.png" width="32"/> | Aazad Samaj Party (Kanshi Ram) | 1 |
+| <img src="images/parties/ajsu.png" width="32"/> | AJSU Party (AJSU) | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
 
 </div>
 
