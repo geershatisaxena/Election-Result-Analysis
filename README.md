@@ -139,7 +139,7 @@ Party symbols as recognized by the Election Commission of India for the 18th Lok
 | 9. | Shiv Sena (SHS) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png" width="32"/> |
 | 10.| Nationalist Congress Party (Sharadchandra Pawar) (NCP(SP)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/NCP%20(Sharad%20Pawar).jpg" width="32"/> |
 | 11.| Lok Janshakti Party (Ram Vilas) (LJP(RV)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Lok%20Janshakti%20Party%20(Ram%20Vilas).jpg" width="32"/> |
-| 12.| YSR Congress Party (YSRCP) | <img src="images/parties/ysrcp.png" width="32"/> |
+| 12.| YSR Congress Party (YSRCP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/YSR%20Congress%20Party.jpg" width="32"/> |
 | <img src="images/parties/rjd.png" width="32"/> | Rashtriya Janata Dal (RJD) | `images/parties/rjd.png` |
 | <img src="images/parties/cpim.png" width="32"/> | Communist Party of India (Marxist) (CPI(M)) | `images/parties/cpim.png` |
 | <img src="images/parties/aap.png" width="32"/> | Aam Aadmi Party (AAP) | `images/parties/aap.png` |
