@@ -136,7 +136,7 @@ Party symbols as recognized by the Election Commission of India for the 18th Lok
 | 6. | Telugu Desam Party (TDP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Telugu%20Desam%20Party.png" width="32"/> |
 | 7. | Janata Dal (United) (JD(U)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Janata%20Dal%20(United).png" width="32"/> |
 | 8. | Shiv Sena (Uddhav Balasaheb Thackeray) (SS(UBT)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena%20(UBT).jpg" width = "32"/>|
-| 9. | Shiv Sena (SHS) | <img src="images/parties/shs.png" width="32"/> |
+| 9. | Shiv Sena (SHS) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Shiv%20Sena.png" width="32"/> |
 | <img src="images/parties/ncpsp.png" width="32"/> | Nationalist Congress Party (Sharadchandra Pawar) (NCP(SP)) | `images/parties/ncpsp.png` |
 | <img src="images/parties/ljprv.png" width="32"/> | Lok Janshakti Party (Ram Vilas) (LJP(RV)) | `images/parties/ljprv.png` |
 | <img src="images/parties/ysrcp.png" width="32"/> | YSR Congress Party (YSRCP) | `images/parties/ysrcp.png` |
