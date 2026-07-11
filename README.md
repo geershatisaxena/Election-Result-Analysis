@@ -144,7 +144,7 @@ Party symbols as recognized by the Election Commission of India for the 18th Lok
 | 14.| Communist Party of India (Marxist) (CPI(M)) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Communist%20Party%20of%20India%20(Marxist).png" width="32"/> |
 | 15. | Aam Aadmi Party (AAP) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Aam%20Aadmi%20Party.png" width="32"/> |
 | 16. | Indian Union Muslim League (IUML) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Indian%20Union%20Muslim%20League.jpg" width="32"/> |
-| <img src="images/parties/jmm.png" width="32"/> | Jharkhand Mukti Morcha (JMM) | `images/parties/jmm.png` |
+| 17. | Jharkhand Mukti Morcha (JMM) | <img src="https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/Jharkhand%20Mukti%20Morcha.png" width="32"/> |
 | <img src="images/parties/rld.png" width="32"/> | Rashtriya Lok Dal (RLD) | `images/parties/rld.png` |
 | <img src="images/parties/jds.png" width="32"/> | Janata Dal (Secular) (JD(S)) | `images/parties/jds.png` |
 | <img src="images/parties/jnp.png" width="32"/> | Jana Sena Party (JnP) | `images/parties/jnp.png` |
