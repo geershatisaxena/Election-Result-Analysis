@@ -147,13 +147,15 @@ The goal is to provide a clear, data-driven view of constituency outcomes withou
 
 ## Analysis & Visualizations
 
-### Party-Wise Seat Distribution
+
 
 ## Party symbols as recognized by the Election Commission of India for the 18th Lok Sabha.
 ![Parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartSeatShare%20(1).png)
 
 ## Top 12 Parties
 ![ton parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartSeatsByParty.png)
+
+### Party-Wise Seat Distribution
 
 ![Party Seat Distribution](seat.png)
 
