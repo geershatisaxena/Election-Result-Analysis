@@ -159,7 +159,7 @@ The goal is to provide a clear, data-driven view of constituency outcomes withou
 ![ton parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartTop10.png)
 
 ## Margin vs Constituency
-![ton parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartTop10.png)
+![ton parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartScatter.png)
 
 ### Party-Wise Seat Distribution
 
