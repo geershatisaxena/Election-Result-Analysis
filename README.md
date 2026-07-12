@@ -153,6 +153,7 @@ The goal is to provide a clear, data-driven view of constituency outcomes withou
 ![Parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartSeatShare%20(1).png)
 
 ## Top 12 Parties
+![ton parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartSeatsByParty.png)
 
 ![Party Seat Distribution](seat.png)
 
