@@ -155,6 +155,9 @@ The goal is to provide a clear, data-driven view of constituency outcomes withou
 ## Top 12 Parties
 ![ton parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartSeatsByParty.png)
 
+## Top 10 Winning Margins
+![ton parties](https://github.com/geershatisaxena/Election-Result-Analysis/blob/main/chartTop10.png)
+
 ### Party-Wise Seat Distribution
 
 ![Party Seat Distribution](seat.png)
